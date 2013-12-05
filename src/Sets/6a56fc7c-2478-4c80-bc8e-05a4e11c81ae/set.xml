@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Markers" id="6a56fc7c-2478-4c80-bc8e-05a4e11c81ae" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="3.1.0.0" version="1.0">
+  <markers>
+    <marker id="6f180a03-b3f5-4e6f-96b5-9ff1597d2226" name="-1 damage" />
+    <marker id="6480e55b-0864-41bf-ad00-43cc2482a75c" name="+1 damage" />
+    <marker id="e7793480-7f5d-4863-adca-125b99049370" name="-1 speed" />
+    <marker id="c09409d2-ba3f-437c-a1b9-60a72613b091" name="+1 speed" />
+  </markers>
+</set>

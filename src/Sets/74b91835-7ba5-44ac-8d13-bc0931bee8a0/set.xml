@@ -1,0 +1,2165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="King of Fighters XIII" id="74b91835-7ba5-44ac-8d13-bc0931bee8a0" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
+	<cards>
+		<card id="f241ed73-9dfc-4721-afa9-4a200bca95c5" name="Andy">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="R Commit, discard the first card in your opponent's card pool: After your opponent plays an attack (not as a block), reduce that attack's damage to 1.  E Discard 1 card from your opponent's card pool: Draw 1 card. This attack gets +X speed. X equals the number of cards discarded from your opponent's card pool this Combat Phase. Only playable during your attack." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="27" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="c50f8a96-e1e9-4fec-a113-adb7cc1f4f61" name="Team Fatal Fury">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="F Destroy this asset: Draw X cards. X equals the number of attacks in your card pool minus the number of cards in your opponent's card pool.  F Commit: Your opponent adds 1 card from their discard pile to their card pool." />
+			<property name="Resources" value="Air All Earth Good Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ally - Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="2274cd3e-d02a-420c-bb80-dc77f08c6944" name="Chou Shin Soku Zan-Ei Ken">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E (5+): Draw 1 card for each card in your opponent's card pool.  Andy E Discard 1 momentum: This attack cannot be blocked by mid blocks." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="7" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="7485543a-e621-48c2-b16a-8fdff4f843cf" name="Kuuha Dan">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="This card cannot be discarded from your card pool by card effects.  This attack gets -1 difficulty for every 2 cards preceding it in your card pool." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Kick - Multiple: 2" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="2e324fa1-4ecd-4fb4-adcc-220e16500466" name="Shoryuu Dan">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E: Your opponent adds the top card of their discard pile to their card pool." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Multiple: 1 - Punch" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="5c776336-3f9d-414b-84e8-a2ea1d9e0f8f" name="Astute Observer">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="This foundation cannot be destroyed by your opponent's card effects.  R Commit: After 1 of your foundations is destroyed by your opponent's effect, add 1 foundation from your discard pile to your staging area ready.  First F Commit, discard 1 card: Draw 1 card." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="3fffd4d3-908f-4e62-a0a8-4d167e72e888" name="Koppouken Training">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="4" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Commit: If there are no cards in your opponent's card pool, your attack gets +2 speed.  R Turn this foundation face down: After your opponent plays an attack, that attack loses all keywords. This card is considered a foundation with a blank text box." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="572276d4-b15b-42b0-bfff-6cb2ccbf7f23" name="Sibling Rivalry">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="4" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After you block a throw attack with this card, it deals no damage.  E Commit: If there are no cards in your opponent's card pool, your opponent adds 1 card from their discard pile to their card pool." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="44ef8a44-569f-425f-b187-5adef5558abd" name="The Human Weapon">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E: This attack gets +1 damage. Only playable if there are no cards in your opponent's card pool." />
+			<property name="Resources" value="All Earth Good" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="9bcf9d2e-1ac9-4203-aeec-6f51bab8880f" name="Joe">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="E Discard 1 card from your opponent's card pool: Change the zone of this attack to any other zone. Ready 1 foundation that has not been readied this Combat Phase. Only playable during your attack.  R Commit: After an attack deals damage, draw 1 card." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="7" />
+			<property name="Vitality" value="20" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="0d12720a-5fe2-4552-a339-878a45ce0ff9" name="Strategic Taunt">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Action" />
+			<property name="CardText" value="R: After you block with this card, all other attacks get -2 damage for the rest of this Combat Phase (minimum 1). Remove this card from the game during the End Phase.  E Remove this card from the game: Change the zone of your attack to any other zone. Your attack gets +1 damage and +2 speed." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="4" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Taunt" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="ca2d356c-2277-460f-a50f-64262c0eea3d" name="Hurricane Upper">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="First E Reduce this attack's multiple rating to 0: Add 1 card from your discard pile to your momentum." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Multiple: 2 - Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="6afb7a91-cfc4-4c13-92b0-a26d3458bb59" name="Screw Straight">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Your opponent may not play an attack as a reversal to this attack.  E: This attack gets 'Powerful: X.' X equals 3 minus the number of cards in your opponent's card pool" />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="5" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="5" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="026c5f1f-1aed-418e-9de9-f1aae425cfce" name="Tiger Kick">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E: If your opponent has no cards in their card pool, draw 1 card." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Kick - Reversal - Stun: 1" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="6c3ed390-7dea-44a5-a6f2-26f339c6739c" name="Champion of Muay Thai">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="4" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Destroy this foundation: Reduce this attack's speed to 1.  R Commit: After a mid attack is played, change the zone of that attack to high." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="e4e4ef97-ed22-49be-8905-92831d7317a6" name="Former Rivals">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Commit: Your attack gets +3 damage. Only playable if a card has been discarded from your opponent's card pool this Combat Phase.  F Commit, discard 1 card: Ready 1 foundation that has not been readied this Combat Phase." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="412b9203-0303-4034-b043-8cb8b06290ed" name="Ladies Man">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="While this card is in your card pool, whenever 1 of your attacks deals damage, ready 1 foundation that has not been readied this Combat Phase.  E Destroy 1 foundation: Draw 1 card. Playable while committed." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="4511b3e3-a7eb-4107-9ca1-0cc0fd5ddc16" name="Self-Proclaimed Legend">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="'G:M' E Commit: Your opponent adds 1 card from their discard pile to their card pool. Only playable during your attack.  E Commit, discard 1 momentum: Commit 1 card in your opponent's staging area. Only playable if there are no cards in your opponent's card pool." />
+			<property name="Resources" value="Air All Earth" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="58e233a8-fdf6-4cae-9d23-b2375aa562fe" name="Terry">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="E Discard 1 card from your opponent's card pool: This attack gets +X damage. X equals the discarded card's control. Only playable during your attack.  R Commit 1 foundation: After you block with a foundation or asset, add that card to your staging area committed and then draw 1 card." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="29" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="76d5937d-dc62-44dd-9f5e-96ac12783f6a" name="Terry's Cap">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="After you block with this card, draw 1 card.  R Commit: After 1 or more cards are discarded from your opponent's card pool during your Combat Phase, commit 2 of your opponent's foundations." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="e1212b42-43b2-4f11-99a7-e33cf8abc2d3" name="Burn Knuckle">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="The damage of this attack cannot be reduced by effects.  E (4+): If this attack is blocked, your opponent loses X vitality. X equals the printed block modifier of their block." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="5" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Punch" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="0e68ed39-7bbe-4eee-87ef-9064c5062270" name="Buster Wolf**">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Your opponent may not play an attack as a reversal to this attack.  R Discard 1 momentum: After you play this card as an attack, skip this attack's Enhance Step. If this attack deals damage, your opponent adds 1 card from their discard pile to their card pool." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="6" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Punch - Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="44a5b767-399d-4b3a-b2cb-9a8cbcd1a438" name="Power Wave**">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Your opponent may not play an attack as a reversal to this attack.  Combo E: Your opponent adds 1 card from their discard pile to their card pool." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Low" />
+			<property name="Damage" value="5" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ranged - Combo (Punch)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="08282734-ce64-49d6-ab08-309abe589454" name="Born in the USA">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After you block with this card, you may play 1 punch attack from your hand as a reversal, following all restrictions and paying all costs.  E Commit: Your non-throw attack gets +3 damage. Only playable if this is the first attack you've played this turn." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="4" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="d98368a8-4254-4b27-b02f-91bed8b5f98b" name="Getting a Ride">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Destroy this foundation: Return this attack to its printed speed. Playable while committed.  R Commit: Before the Block Step of your attack, return it to its printed damage." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="ea82d8d8-6fb9-47eb-a6ba-337bd2301dde" name="The Hungry Wolf">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E: your attack gets +1 speed. Only playable if there are no cards in your opponent's card pool." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="44975e33-0831-44ff-9cb8-fff858ab19bd" name="Trained by the Streets">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After you block with this card, your opponent discards 1 momentum.  R Commit: After your opponent plays an ability on a non-character card that would draw or add any number of cards to their hand, they add 1 card from their hand to their card pool." />
+			<property name="Resources" value="All Earth Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="4cb07e63-c96f-4c62-adba-576ad5391695" name="Clark">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="R (4+): After you take damage, commit 1 of your opponent's foundations and draw 1 card.  First E Commit 1 foundation: This attack gets +1 damage for each card in your hand (maximum 4). Playable while committed." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="5" />
+			<property name="Vitality" value="34" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="ef49095f-2d3c-4642-9208-bc84bd75a82b" name="Clark's Sun Glasses">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="R Commit 1 foundation: After an enhance ability is played, your opponent commits 1 of their foundations.  Only playable once per Enhance Step.  Clark E Commit: If this attack deals damage, draw 1 card." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="147ee906-94d7-4559-92e6-ea8ea15e5eb9" name="Gatling Attack">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E (5+): If your printed hand size is less than your opponent's printed hand size, add 1 card from your discard pile to your momentum face up." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Multiple: 1 - Punch" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="4ee0138c-1e16-4b64-9b21-9a2fa3e6c4ac" name="Super Argentine Backbreaker">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E Commit 1 foundation: This attack gets +2 damage. If this attack deals damage, choose 1 of your opponent's committed foundations. That card does not ready during their next Ready Step." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Throw" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="5a249112-87fd-4201-adfd-b94be6d07bf3" name="Ultra Clark Buster">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="2" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Clark E Discard 1 momentum: If this attack deals 6 or more damage, your opponent loses 1 vitality for each of their committed foundations.  E Commit 1 foundation: The damage of this attack cannot be reduced by effects." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="5" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Throw" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="95e68a5a-c8a0-402c-bdfb-808efd3ff77c" name="Accomplished Grappler">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After this foundation is committed due to your opponent's effect, their attacks get -1 damage and -1 speed for the rest of this turn (minimum 1).  R Commit: After you play your second attack this turn, draw 1 card. Only playable if your hand size is less than your opponent's." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="298b7ced-0efa-404b-aa45-b054106df436" name="Limitless Strength">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After this foundation is committed during your attack's Enhance Step, your attack gets +3 damage." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="7ac4c320-fe45-4023-9fc8-45947917ceac" name="Orders From Heidern">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After this foundation is committed during your attack's Enhance Step, your attack gets +2 damage.  E Destroy this foundation: Choose 1 attack in your opponent's card pool. It may not be removed from the card pool for the rest of this Combat Phase. Playable while committed." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="71a255f3-0147-43ea-9828-861274e68582" name="Tough and Cold">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After this foundation is committed during your attack's Enhance Step, your attack gets +2 speed.  E Commit: During the Block Step of this attack, choose 1 random card in your momentum and reveal it. If the revealed card could normally be played as a block against this attack, attempt to block with it as if it were in your hand." />
+			<property name="Resources" value="Fire Good Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="f4ea8e1e-6f2e-43e7-accb-124e84541a20" name="Leona">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="At the beginning of your End Phase, discard 1 card.  R: After you commit 1 or more foundations in order to pass a control check to play an attack, that attack gets +2 speed.  E Commit: Your {Fire} and {Good} attack gets +3 damage." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="8" />
+			<property name="Vitality" value="17" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="86e2b863-e793-438f-916c-041fcf7a4bda" name="Earring Bomb">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Action" />
+			<property name="CardText" value="F: The next time you commit 1 or more foundations in order to pass a control check to play an attack this turn, that attack gets +2 speed and +2 damage.  R Discard this card from your card pool: After your opponent plays a breaker or reversal ability, cancel its effects. Only playable while this card is in your card pool." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="cf6d56fb-431f-40f5-a020-e9999e0f712d" name="Baltic Launcher**">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E Discard 1 card: If this attack is blocked, you may add 1 copy of this attack from your discard pile to your hand." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="0" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="14ed5e13-085e-481f-9952-2c5856c47cc5" name="Leona Blade">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="2" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Combo E: This attack gets 'Stun: 3.' Ready all cards committed to pass the control check to play this attack.  Leona R Discard this card from your card pool: After your opponent plays a response ability, cancel its effects." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="8" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Weapon - Combo (Ranged)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="218ce664-550c-4676-9764-e7981be4268c" name="V-Slasher">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E: Reveal the top card of your deck. If it is a {Fire} and {Good} card, this attack gets +2 damage.  E: Draw 1 card. Only playable if you committed 1 or more foundations to pass the control check to play this attack." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="d10b2abd-dec0-4106-9bd2-b8496d19f0a4" name="Heidern's Prodigy">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After this card is committed to pass a control check to play an attack, commit 1 of your opponent's assets.  R Commit: After you discard a card, look at the top 2 cards of your deck and replace them in any order." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="01c7226b-e188-4f67-9b40-92a4a91c5eca" name="Hidden Laughter">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="This card ignores progressive difficulty.  E Discard 1 momentum: Ready this foundation. Only playable while committed." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="c6c0508a-ba9a-487e-af99-efdc76e605aa" name="Leona's Orochi Blood">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="F Commit: Your {Fire} and {Good} attacks get +1 damage for the rest of this Combat Phase.  E Destroy this foundation: This attack gets -2 speed. If it is a {Fire} and {Good} attack, it gets +2 speed instead. Playable while committed." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="52d2c142-c5c4-46e2-9fce-a41e3bb2fad6" name="Young Mercenary">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="F Destroy this foundation: Until the beginning of your next turn, the difficulty of attack cards cannot be modified by effects.  E Destroy 1 committed foundation: Your opponent commits 1 card in their staging area. Only playable during your attack." />
+			<property name="Resources" value="Fire Good Life" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="8de20b69-6c57-4ad7-8275-be44532c3613" name="Ralf">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="F Commit 1 foundation, reveal 1 block card in your hand: For the rest of this turn, after you play an attack that shares at least 2 resource symbols with your character, it gets +X damage. X equals 4 minus the printed block modifier of the revealed card. Only playable once per turn.  First E Commit: Your opponent discards their entire hand and then draws up to their printed hand size minus 1." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="26" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="7c1dd9c2-fe86-4e5c-a257-b659ce3b1034" name="Team Ikari Warriors">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="F Destroy this asset: Add 1 {Fire} and {Good} foundation from your discard pile to your hand.  F Commit: Draw 1 card. If your opponent has 4 or more cards in hand, they discard 1 card. Only playable if you have played an attack this turn." />
+			<property name="Resources" value="Fire Good Life Order Void" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ally - Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="3261f538-b15d-495b-a89e-21a91d6a39a2" name="Dynamite Ralf Punch">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E Reveal an attack card from your hand: If this attack is not completely blocked, your next punch attack this turn gets +3 speed." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="1" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Powerful: 2 - Punch" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="cfb3d8fb-e7b9-40ce-b767-05c820efa2d5" name="Jet Vulcan Punch">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="X equals the number of {Fire} and {Good} cards in your card pool plus 1.  Combo E: If this attack deals damage, you may play it again (no control check necessary). Only one copy of this ability may be played per turn." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="X" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Punch - Stun: 2 - Ralf Combo (Punch, Punch)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="3a5d91d0-d02f-4a1a-a049-f6b32fdaf0fe" name="Vulcan Punch**">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Combo E: Your opponent discards half the number of cards in their hand (rounded down). If they have more cards in their hand than you do, they discard those cards at random instead." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Punch - Combo (Punch)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="190e16cb-fa6f-4529-9302-ad05b4ee5dce" name="Action Hero**">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: Before your opponent makes a control check to play a reversal, if you have revealed an attack card from your hand as part of a cost this Combat Phase, your opponent must discard 1 card as an additional cost to play that reversal." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="2848742d-325d-46e6-94de-c2fb46cda744" name="Comfort in a Bottle">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="F Commit: Discard 1 card and then draw 1 card. If you have revealed an attack card from your hand as part of a cost this Combat Phase, discard 2 cards and then draw 2 cards instead." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="852b748d-d2d3-47bb-bc50-c5a186146a40" name="Plays with Knives">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Commit: Remove 1 card in your card pool from the game. Your attack gets +1 damage. Only playable if you have revealed a card from your hand as part of a cost this Combat Phase." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="7af7869a-d26f-48e9-93b1-f7ca1be2ded6" name="Watchful Instructor">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="First F Destroy this foundation, reveal 1 {Fire} and {Good} card in your hand: Players may not play abilities that would draw or add cards to a player's hand for the rest of this Combat Phase." />
+			<property name="Resources" value="Fire Good Void" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="77874923-4277-4ed6-9ab8-651be30eb540" name="King">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="First F: Gain 1 vitality. If you are at maximum vitality, increase your maximum vitality by 1.  R (5+): After you play a kick attack (not as a block), your opponent adds 1 card from their discard pile to their card pool.  E Commit: Your attack gets +1 damage for each card in your opponent's card pool." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="7" />
+			<property name="Vitality" value="19" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="02f07ae2-4bb5-41b2-b19b-5438ddb4b3ba" name="King's Handerchief">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="4" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="After you block with this card, gain 1 vitality for each card in your opponent's card pool.  F Remove this asset from the game: During your opponent's next Draw Step, you may draw up to your printed hand size. Only playable if there are at least 2 cards in your opponent's card pool." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="King Only - Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="2e799c89-5f9f-46ad-8e6a-8350edc44e17" name="Trap Shot">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="2" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Multiple copies of this attack have no Enhance Step.  E: If this attack deals damage, your opponent commits 1 of their foundations for each card in their card pool." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="2" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Kick - Multiple: 3 - Reversal" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="a67a4a3c-c5ce-4fdb-9d21-df2ba8930079" name="Tornado Kick 95">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E: This attack gets +2 damage for each card in your opponent's card pool." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="2" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Kick" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="b838f6db-adfe-45f8-a5d1-fc389a1a247f" name="Venom Shot">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E Discard 1 card: This attack gets +X damage. X equals the highest control printed on a card in your opponent's card pool." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Low" />
+			<property name="Damage" value="5" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Kick - Stun: 3" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="43f3372f-9c31-41ff-b208-7ec016e77522" name="Discriminated by Gender">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="'G:F' E Commit: Your {Life} and {Water} attack gets 'Stun: 1.'  {Earth} R Destroy this foundation: After your kick attack deals damage, turn 1 of your opponent's foundations face down. That card is considered a foundation with a blank text box." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="4" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="b0e6036d-0b1f-4fee-ad9f-4295b2617770" name="Loving Sister">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="While this card is in your card pool, your kick attacks get +1 speed.  'G: F' R Commit: After your {Life} or {Water} attack deals damage, gain 1 vitality." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="60c1c24b-601e-47ac-88ee-900884ed4493" name="Muay Thai Prodigy">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="4" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Commit: Your attack gets +1 damage for each card in your opponent's card pool.  {Water} R Destroy this foundation: After your opponent plays a stun ability, cancel its effects and ready 1 foundation." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="4" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="2c83a891-0208-48ed-a09a-3161f6e2f78f" name="Unquestionable Loyalty">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Destroy this foundation: Choose 2 cards in your opponent's discard pile and add them to their card pool face down. Only playable during your turn." />
+			<property name="Resources" value="Earth Life Water" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="fb7d2454-3907-4c84-a1f4-bc0a158d3d69" name="Mai">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="R: After your attack deals 4 or more damage, gain 2 vitality. Playable while committed.  E Commit: Your attack gets +3 damage and +3 speed." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="27" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="9a3fbf6a-0f4b-4a85-8946-f6d946490316" name="Grandmother's Hairpin">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="R Destroy this asset: After your attack deals 5 or more damage, gain 3 vitality.  E Commit: Your {Life} and {Water} attack gets +3 speed. If your attack deals damage, gain 2 vitality." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="f690c341-d786-4d86-b337-fa5ca3a984c2" name="Kachousen">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E: If this attack deals damage, multiple copies of this attack get +3 damage and +3 speed." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Multiple: 1 - Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="fb69e565-a6b8-450d-bf28-1252a6111874" name="Ryuuenbu">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Your opponent may not play an attack as a reversal to this attack.  E Discard 1 momentum: This attack can only be blocked by cards that share at least 1 resource symbol with it. After this attack resolves, remove it from the game." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="943d9108-2dd6-44d3-8689-8520e5e3ca22" name="Shiranui-Ryuu: Kunoichi-no-Mai">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="2" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="If this is the 4th attack you attempt to play this turn, it ignores progressive difficulty.  E Discard 1 momentum: After this attack resolves, both players discard all cards from their card pool and draw cards equal to the number of cards they discarded." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="7" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Mai Desperation: 3 - Ranged - Stun: 1" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="a9a44841-c410-4ab2-ae0d-4b4977e7ff91" name="Arachnophobia">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="4" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: After you gain vitality, reveal the top card of your deck. If the revealed card is an attack, add it to your hand and then draw 1 card.  E Destroy this foundation: Your attack gets +3 speed. Playable while committed." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="3224d038-e465-4d1e-bef1-4a6f993ffea3" name="Elegant Kunoichi">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: After your attack deals 4 or more damage, gain 1 vitality.  E Commit: This attack gets +2 speed and -2 damage (minimum 1)." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="fb8f8759-1ac0-4fdf-9b52-8146b27a1779" name="Shiranui Training">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After this foundation is committed during your attack's Enhance Step, your attack gets +1 speed.  E Commit: If your attack deals 4 or more damage, commit 1 of your opponent's foundations or assets." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="9fce3008-1bbb-4462-9d07-8fb4b2e8a80d" name="Unwavering Resolve">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Discard 1 momentum: After 1 of your foundations is committed due to your opponent's effect, ready 1 foundation that has not been readied this Combat Phase.  R Destroy this foundation: After your opponent plays a form ability printed on a foundation, cancel its effects." />
+			<property name="Resources" value="Fire Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="3f43fd9c-8cdd-417e-8e0d-cd6a567fcf35" name="Yuri">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="E: If your attack deals damage, gain 1 vitality and gain 1 resource symbol of your choice until the start of your next turn.  R: After your opponent plays their second non-foundation card this turn, search your deck for 1 card that shares 3 resource symbols with your character, reveal it, and add it to your hand." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="26" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="35a9270b-a45f-47b3-8b2c-f66da99d9e42" name="Team Women Fighters">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="King/Mai/Yuri F Commit: Commit 1 of your opponent's foundations.  R After you gain vitality, reveal the top card of your deck." />
+			<property name="Resources" value="All Earth Fire Life Water" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ally - Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="6f7a8687-5466-49ce-9fb4-2517f8e3c27d" name="Haoh Raiou Ken">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="R: After you play this card, cards cannot be removed or played from discard piles by effects for the rest of this turn. Only playable if you have not removed or played a card from your discard pile due to one of your effects this turn.  E: If this attack deals damage, gain 1 vitality for each resource symbol on your character. Then, if you are at maximum vitality, draw 2 cards." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="5" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="7" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="29cfb3cd-261e-49c2-bebf-fa0a744fc38b" name="Hien Houou Kyaku">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Desperation E: This attack gets 'Multiple: 2.' Whenever a multipe copy of this attack deals damage, gain 2 vitality." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Kick - Stun: 2" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="c92d918b-e640-4271-8208-262f0d55e3e5" name="Kuuga (Yuri Chou Upper)">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="The speed of this attack cannot be reduced by effects.  First E: Commit 1 card in your opponent's staging area." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="2" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Punch" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="99e366f6-c949-454c-8872-59aafdc640c8" name="Stunning New Look">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="F Commit: Draw 1 card. Only playable if you are at maximum vitality.  {Water} E Commit: Discard all cards from your card pool. Only playable during your opponent's turn." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Breaker: 1" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="c4e98606-ebee-48e4-bc22-f118f75b9946" name="Constantly Improving">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="First E Commit, commit 1 foundation: your attack gets +X speed. X equals your attack's printed speed." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="c8585eeb-b8a7-48ca-acfe-35f7100f3599" name="Cooking Frenzy">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: After an attack deals damage, reveal the top card of your deck. if it shares at least 3 resource symbols with your character, gain 1 vitality.  R: After you block with this card, your character gains 1 resource symbol of your choice until the start of your next turn. You may choose 1 card in your discard pile and shuffle it into your deck." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="e0fb89b1-ea2e-43d4-a273-32ce9c949627" name="Kyokugen Disciple">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Commit: Your attack gets +2 speed. If your opponent has more foundations in their staging area than you do, your attack get +2 damage as well." />
+			<property name="Resources" value="All Life Water" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="030ae958-d548-461b-8705-0ef32a75c05b" name="Iori">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="While you are at desperation, your opponent must discard 1 momentum as an additional cost to play any ability that would commit a card in your staging area.  E Lose 2 vitality: If this attack deals damage, remove it fromt he game.  E Lose 1 vitality: Your desperation attack gets +2 damage." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="7" />
+			<property name="Vitality" value="20" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="ea7d6c11-467b-44ff-87e8-6e1515854af2" name="Iori's Guitar">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="E Commit, lose 2 vitality: Reduce this attack's damage to 0.  Desperation F remove this card from the game: Gain 4 vitality. Playable while committed." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 1 - Iori Only - Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="0809daa0-dc7a-4eca-8cf6-12117210fc40" name="203-Shiki - Tsuchi Tsubaki">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Combo E: Choose 1 card in your card pool. This attack gets a damage bonus equal to the desperation rating on the chosen card." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 4 - Throw - Combo (Desperation)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="cd8a799b-c96f-4d1d-8705-55a56b434c59" name="Kin 1211-Shiki - Yaotome">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Desperation E: Choose 1 card in your removed from game pile. This attack gets +X damage. X equals the chosen card's desperation rating.  Desperation R: After you play this card as an attack, turn all face down cards in your staging area face up. Remove all non-foundation cards turned face up by this effect from the game." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="1" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="5" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 3" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="967b3273-12ca-421d-a02e-13bc1e125b3f" name="Kin 1218-Shiki - YATAGARASU">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="E Remove this card from the game, discard 2 momentum: your opponent loses 6 vitality. Draw 2 cards.  Desperation E: This attack gets +X speed. X equals your current vitality (maximum 9)." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="0" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="6" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 3 - Iori Only - Ranged" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="cc03d514-2424-4de7-95ab-e50f606ada96" name="Unbridled Instinct">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="Desperation E Commit: This attack gets +X damage. X equals this attack's desperation rating.  E Remove this card from the game: Your may play desperation abilities on cards in your staging area as though you are not at desperation for the rest of this Enhance Step." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="b3a0bb80-f53e-4cd0-bb30-0e0f19c80e4b" name="Irritable">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R (5+): After you lose 2 or more vitality as part of a cost, gain 1 vitality.  Desperation R Commit: After you make a control check to play a desperation attack, that check gets +2." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 1" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="1cf042ba-868f-435f-a334-f632e9c31a32" name="Violent">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: After a card is removed from the game due to an effect, draw 1 card.  Iori E Lose 1 vitality: Your attack gets +1 damage and +1 speed." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 1" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="6a5e9ddd-1cd9-490a-a9bd-d35999f75fd3" name="Vengeful Intentions">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Commit: If your non-throw attack deals damage, your opponent loses 2 vitality.  Desperation E: Your attack gets +1 speed." />
+			<property name="Resources" value="Chaos Earth Evil" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 1" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="859d716e-a69f-4726-9b75-f94f12b37309" name="Mature">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="While you are at desperation, cards that would be added to your opponent's momentum during the Combat Phase are added during the End Phase instead.  First F Lose 2 vitality: Until the end of this Combat Phase, your control checks to play mid attacks get +2.  Desperation E: Your mid attack gets +3 damage." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="27" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="02e5567a-e595-4151-aceb-f155151b15f6" name="Acrobatic Maneuvers">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Action" />
+			<property name="CardText" value="E: Your opponent's mid block modifiers get +2 for the rest of this turn. If your character is Mature, discard this card from your card pool.  R: After your opponent plays a desperation ability, cancel its effects and your opponent discards their entire momentum." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 0" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="dcc74706-7e4e-43cc-8485-c0cc46f44fdf" name="Death Row">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Combo E: Your opponent discard their entire momentum.  E: This attack gets +2 speed. Only playable if your opponent has 0 momentum." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="4" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="4" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Combo (Mid Attack)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="e65ea8c2-8443-4762-97c0-15e97580a465" name="Heaven's Gate">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="You may only play 1 enhance during this attack's Enhance Step.  R: After you play this attack, it gets +3 damage and +3 speed for each copy of Heaven's Gate in your discard pile." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="d17a78ea-1a45-4bdc-a686-478742ce6960" name="Mature's Awakening Blood">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Mature E Discard 2 momentum: This attack gets +3 damage for each mid attack in your card pool.  E: If your opponent completely blocks this attack, draw 2 cards at the end of this turn." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="5" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="8" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Desperation: 5" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="ea2af8b8-6639-4454-9819-e080cffce54d" name="Hakkesshu of Light">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="F Commit, discard 1 momentum: Your opponent discards 2 momentum. Your next mid attack this turn gets +2 damage and +2 speed." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="4b6f0697-81b0-4a4f-a7f5-11ede2a068d6" name="Snowboarding Enthusiast">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: After your non-throw mid attack deals damage, choose 1 foundation in your discard pile and add it to your hand." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="de329420-97cf-432e-a1c6-7a87d61c79e2" name="Nimble Assassin">
+			<property name="Difficulty" value="1" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Commit: Before you make a control check to play a mid attack, that check gets -X. If you pass that control check, your next control check to play a mid attack this turn gets +X.  R Remove this foundation from the game: After you fail a control check to play a mid attack, add that attack to your hand instead of discarding it. Your Combat Phase does not end." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="90f2f028-2cc3-4d63-ab7f-abbcfd733625" name="Ruthless Woman">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Lose 1 vitality: After you play a mid attack, that attack gets +1 damage.  Desperation R Commit: After your opponent plays an attack reduce that attack's speed to 0. Only playable if your opponent has 0 momentum." />
+			<property name="Resources" value="Chaos Evil Good" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="3e6a4987-8d0a-47dd-9e66-85ce6ef426bc" name="Vice">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="While you are at desperation, your opponent must discard 1 momentum as an additional cost to play action cards.  First F: Add the top card of your deck to your momentum. Only playable if there are at least 3 attacks in your discard pile.  Desperation E (4+): Your {Chaos} and {Evil} attack gets +2 damage and +2 speed." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="27" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="abdc1eaa-54fb-411f-bf4f-3c436c5f726b" name="Give Up Yet?">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Action" />
+			<property name="CardText" value="R: After your unblocked attack deals damage, if your opponent has 0 momentum, add this card and the top card of your deck to your momentum.  F Discard 1 card: Draw 2 cards." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="b01369b6-cd48-4ed5-ba35-b07f597ec20c" name="Deicide">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="While this card is in your card pool, after you play a combo attack you may change one of its combo requirement to 'Deicide' until the end of this turn.  E: If this attack is not blocked, add 1 card from your card pool to your momentum." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed" value="6" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="0" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="e03291e3-3fee-41b1-8bbc-af6c30a031f4" name="Negative Gain">
+			<property name="Difficulty" value="4" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="3" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="After all multiple copies of this attack resolve, discard them from your card pool.  Combo E: This attack gets 'Multiple: 2'." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="2" />
+			<property name="Attack Zone" value="High" />
+			<property name="Damage" value="3" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Throw - Combo (High Attack)" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="92ca0875-73d0-43b4-a327-560a83084e6e" name="Vice's Awakening Blood">
+			<property name="Difficulty" value="5" />
+			<property name="Rarity" value="Ultra Rare" />
+			<property name="Control" value="2" />
+			<property name="Type" value="Attack" />
+			<property name="CardText" value="Vice First E Discard 3 momentum: Destroy all foundations in both players' staging areas. Only playable if you have played at least 2 other attacks this Combat Phase.  E: Add X cards from your momentum to your staging area face down. Those cards are considered foundations with a blank text box." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="3" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="7" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="f2177805-fff8-4de2-a33d-2706792ea007" name="Brash and Aggressive">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Common" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R (4+): After you discard 1 or more momentum during the Enhance Step, this attack gets +1 damage and +1 speed." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="225ece6f-6fb4-4844-aba6-50bd3b51e1e7" name="Hakkesshu of Death">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="First E Lose 2 vitality: Add 1 card from your momentum to your hand. Only playable if you have not dealt damage this turn.  R Commit: After 1 or more of your cards are committed due to your opponent's effect, both players lose X vitality. X equals your momentum." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="4a6eb9b7-b570-4460-9c2f-6b8af3396741" name="Plum Eater">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Rare" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="E Destroy this foundation: If this attack has a printed difficulty of 5 or more, it gets -3 damage (minimum 1). Only playable if you have at least 1 momentum.  E Destroy this foundation: Both players discard 2 momentum. Playable while committed." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+		<card id="0ffc0e33-a125-468a-ad48-eaae90629178" name="Powerful Assassin">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="R Lose 2 vitality: After your opponent plays an attack (not as a block), if your opponent has 0 momentum, draw 1 card. Only playable once per turn.  E Commit: Choose 1 foundation in your staging area and add it to your hand. This attack gets +2 damage and -2 speed." />
+			<property name="Resources" value="Chaos Death Evil" />
+			<property name="Block Modifier" value="" />
+			<property name="Block Zone" value="" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+		</card>
+	</cards>
+</set>

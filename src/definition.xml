@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Universal Fighting System" tags="UFS" iconurl="http://jascogames.crystalcommerce.com/files/assets/img/UFS%20Yellow%20Logo.png" setsurl="http://forums.jascogames.com/forums/forumdisplay.php?52-UFS-Online" gameurl="http://forums.jascogames.com/forums/forumdisplay.php?52-UFS-Online" authors="FenMiHuo, rAn, Toby" description="The Universal Fighitng System is a unique game that has access to the best fighting video game licenses and popular media in the world. Each set of UFS features one license and is standalone, but all sets are compatible with each other." id="b74079e6-4dc7-4f0f-9025-b4e444555265" octgnVersion="3.1.29.120" version="3.2.0.8" markersize="18">
+	<scripts>
+		<script src="scripts/actions.py" />
+	</scripts>
+	<proxygen definitionsrc="proxy/proxygen.xml" />
+	<card back="cards/back.jpg" front="cards/front.jpg" width="63" height="88" cornerRadius="2">
+		<property name="Format" type="String" hidden="False" ignoreText="True" />
+		<property name="Difficulty" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Control" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Block Modifier" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Block Zone" type="String" hidden="False" ignoreText="True" />
+		<property name="Resources" type="String" hidden="False" ignoreText="True" />
+		<property name="Keywords" type="String" hidden="False" ignoreText="True" />
+		<property name="Type" type="String" hidden="False" ignoreText="False" />
+		<property name="Speed" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Attack Zone" type="String" hidden="False" ignoreText="False" />
+		<property name="Damage" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Hand Size" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Vitality" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="CardText" type="String" hidden="False" ignoreText="False" />
+		<property name="Rarity" type="String" hidden="False" ignoreText="True" />
+		<property name="Split Difficulty" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Split Rules" type="String" hidden="False" ignoreText="True" />
+		<property name="Split Keywords" type="String" hidden="False" ignoreText="True" />
+	</card>
+	<table name="Table" visibility="undefined" ordered="False" width="640" height="480" board="background/Simulated_Wood.jpg" boardPosition="0,0,0,0" background="background/Simulated_Wood.jpg" backgroundStyle="uniformToFill">
+		<groupaction menu="Set Host" default="False" execute="setHost" />
+		<groupaction menu="Start Game" default="False" execute="startDeck" />
+		<groupaction menu="Clear all targets" default="False" shortcut="esc" execute="clearAll" />
+		<groupaction menu="Roll 6-sided Die" default="False" execute="roll6" />
+		<groupaction menu="Roll 20-sided Die" default="False" shortcut="ctrl+R" execute="roll20" />
+		<groupaction menu="Respond" default="False" shortcut="Enter" execute="respond" />
+		<groupaction menu="Pass Enhance" default="False" shortcut="ctrl+P" execute="passEnhance" />
+		<groupaction menu="Scoop" default="False" shortcut="ctrl+shift+S" execute="scoop" />
+		<groupaction menu="Toggle Auto Align" default="False" execute="toggleAutoAlign" />
+		<groupaction menu="Next Phase" default="False" shortcut="ctrl+x" execute="nextPhase" />
+		<groupactions menu="Phases / Steps...">
+			<groupaction menu="Jump to Ready Step" default="False" shortcut="F1" execute="goToReady" />
+			<groupaction menu="Jump to End Phase" default="False" shortcut="F2" execute="goToEnd" />
+		</groupactions>
+		<cardaction menu="Commit/Ready" default="True" shortcut="ctrl+G" execute="commit" />
+		<cardaction menu="Don't Ready during Ready Step" default="False" shortcut="ctrl+V" execute="doesNotReady" />
+		<cardaction menu="Flip" default="False" shortcut="ctrl+F" execute="flip" />
+		<cardactions menu="Move Card...">
+			<cardaction menu="Destroy Card" default="False" shortcut="del" execute="destroy" />
+			<cardaction menu="Return to Deck" default="False" shortcut="ctrl+Y" execute="todeck" />
+			<cardaction menu="Return to Hand" default="False" shortcut="ctrl+H" execute="tohand" />
+			<cardaction menu="Remove Card From Game" default="False" shortcut="ctrl+R" execute="rfg" />
+		</cardactions>
+		<cardaction menu="Clear Card" default="False" shortcut="esc" execute="clear" />
+		<cardaction menu="Activate Card Ability" default="False" shortcut="ctrl+Z" execute="activate" />
+		<cardactions menu="Add Counters...">
+			<cardaction menu="Add +1 Speed Counter" default="False" shortcut="ctrl+1" execute="addPlusSpeedMarker" />
+			<cardaction menu="Add -1 Speed Counter" default="False" shortcut="ctrl+2" execute="addMinusSpeedMarker" />
+			<cardaction menu="Add +1 Damage Counter" default="False" shortcut="ctrl+3" execute="addPlusDamageMarker" />
+			<cardaction menu="Add -1 Damage Counter" default="False" shortcut="ctrl+4" execute="addMinusDamageMarker" />
+		</cardactions>
+		<cardaction menu="Don't count towards progressive difficulty" default="False" execute="toggleProgDiff"/>
+		<cardaction menu="Attach to target" default="False" execute="attach"/>
+	</table>
+	<player summary="{#Life} / {#Hand}">
+		<hand name="Hand" visibility="me" ordered="False" width="63" height="88" shortcut="ctrl+H" icon="groups/hand.png">
+			<cardaction menu="Play Card" default="True" shortcut="ctrl+Q" execute="play" />
+			<cardaction menu="Play Block" default="False" shortcut="ctrl+B" execute="block" />
+			<cardaction menu="Discard Card" default="False" shortcut="del" execute="discard" />
+			<cardaction menu="Remove Card From Game" default="False" shortcut="ctrl+E" execute="rfg" />
+			<cardaction menu="Return to Deck (reveal)" default="False" shortcut="ctrl+Y" execute="todeck" />
+			<cardaction menu="Attach to target" default="False" execute="attach"/>
+			<groupaction menu="Mulligan" default="False" shortcut="ctrl+M" execute="mulligan" />
+			<groupaction menu="Random Discard" default="False" execute="randomDiscard" />
+		</hand>
+		<group name="Deck" visibility="none" ordered="False" width="63" height="88" shortcut="ctrl+I" icon="groups/library.png" collapsed="False">
+			<groupaction menu="Draw" default="False" shortcut="ctrl+D" execute="draw" />
+			<groupaction menu="Draw X Cards" default="False" shortcut="ctrl+shift+D" execute="drawMany" />
+			<groupaction menu="Mill X Cards" default="False" execute="mill" />
+			<groupaction menu="Cycle Deck" default="False" execute="cycleDeck" />
+			<groupaction menu="Shuffle" default="False" shortcut="ctrl+S" execute="shuffle" />
+			<groupaction menu="Make Control Check" default="True" shortcut="ctrl+C" execute="check" />
+			<cardaction menu="Discard Top Card" default="False" shortcut="del" execute="discard" />
+			<cardaction menu="Remove Top Card From Game" default="False" shortcut="ctrl+E" execute="rfg" />
+			<cardaction menu="Move Top Card to Hand (reveal)" default="False" shortcut="ctrl+H" execute="tohand" />
+			<cardaction menu="Play Top Card" default="False" execute="play" />
+			<groupaction menu="Reveal/Hide Top Card" default="False" shortcut="ctrl+shift+R" execute="revealtopDeck" />
+		</group>
+		<group name="Discard" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/graveyard.png" collapsed="False">
+			<groupaction menu="Shuffle Discard Pile into Deck" default="False" execute="shuffleIntoDeck" />
+			<cardaction menu="Remove Top Card From the Game" default="False" shortcut="ctrl+E" execute="rfg" />
+			<cardaction menu="Move Top Card to Hand (reveal)" default="False" shortcut="ctrl+H" execute="tohand" />
+			<cardaction menu="Play Top Card" default="True" execute="play" />
+			<cardaction menu="Return Top Card to Deck" default="False" shortcut="ctrl+Y" execute="todeck" />
+		</group>
+		<group name="Removed From Game Zone" visibility="all" ordered="False" width="63" height="88" shortcut="ctrl+E" icon="groups/removed.png" collapsed="True">
+			<groupaction menu="Move Removed from Game Cards to Library" default="False" execute="moveIntoDeck" />
+			<cardaction menu="Move Top Card to Hand (reveal)" default="False" shortcut="ctrl+H" execute="tohand" />
+			<cardaction menu="Play Top Card" default="True" execute="play" />
+			<cardaction menu="Discard Top Card" default="False" shortcut="del" execute="discard" />
+			<cardaction menu="Return Top Card to Library" default="False" shortcut="ctrl+Y" execute="todeck" />
+		</group>
+		<group name="Sideboard" visibility="me" ordered="False" width="63" height="88" icon="groups/sideboard.png" collapsed="True" />
+		<counter name="Life" default="20" reset="False" icon="counters/life.png" />
+	</player>
+	<deck>
+		<section name="Main" group="Deck" />
+		<section name="Sideboard" group="Sideboard" />
+	</deck>
+</game>

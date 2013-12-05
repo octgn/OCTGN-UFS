@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+	<blocks>
+		<block type="overlay" id="vit" src="proxy/vit.png">
+			<location x="247" y="138" />
+		</block>
+		<block type="overlay" id="hand" src="proxy/hand.png">
+			<location x="247" y="80" />
+		</block>
+		<block type="overlay" id="damage" src="proxy/damage.png">
+			<location x="252" y="125" />
+		</block>
+		<block type="overlay" id="speedHigh" src="proxy/speedHigh.png">
+			<location x="255" y="80" />
+		</block>
+		<block type="overlay" id="speedLow" src="proxy/speedLow.png">
+			<location x="255" y="80" />
+		</block>
+		<block type="overlay" id="speedMid" src="proxy/speedMid.png">
+			<location x="255" y="80" />
+		</block>
+		<block type="overlay" id="difficultyAction" src="proxy/difficultyAction.png">
+			<location x="10" y="0" />
+		</block>
+		<block type="overlay" id="difficultyAsset" src="proxy/difficultyAsset.png">
+			<location x="10" y="0" />
+		</block>
+		<block type="overlay" id="difficultyAttack" src="proxy/difficultyAttack.png">
+			<location x="10" y="0" />
+		</block>
+		<block type="overlay" id="difficultyFoundation" src="proxy/difficultyFoundation.png">
+			<location x="10" y="0" />
+		</block>
+		<block type="overlay" id="difficultySplit" src="proxy/difficultyFoundation.png">
+			<location x="10" y="362" />
+		</block>
+		<block type="overlay" id="blockHigh" src="proxy/blockHigh.png">
+			<location x="247" y="5" />
+		</block>
+		<block type="overlay" id="blockLow" src="proxy/blockLow.png">
+			<location x="247" y="5" />
+		</block>
+		<block type="overlay" id="blockMid" src="proxy/blockMid.png">
+			<location x="247" y="5" />
+		</block>
+		<block type="overlay" id="controlAction" src="proxy/controlAction.png">
+			<location x="256" y="358" />
+		</block>
+		<block type="overlay" id="controlAsset" src="proxy/controlAsset.png">
+			<location x="256" y="358" />
+		</block>
+		<block type="overlay" id="controlAttack" src="proxy/controlAttack.png">
+			<location x="256" y="358" />
+		</block>
+		<block type="overlay" id="controlFoundation" src="proxy/controlFoundation.png">
+			<location x="256" y="358" />
+		</block>
+		<block type="text" id="difficultyText">
+			<location x="10" y="0" />
+			<text color="#000000" size="25" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="64" width="30" align="center" valign="center" />
+		</block>
+		<block type="text" id="splitDifficultyText">
+			<location x="10" y="362" />
+			<text color="#000000" size="25" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="64" width="30" align="center" valign="center" />
+		</block>
+		<block type="text" id="blockText">
+			<location x="255" y="5" />
+			<text color="#000000" size="25" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="48" width="40" align="center" valign="center" />
+		</block>
+		<block type="text" id="speedText">
+			<location x="255" y="80" />
+			<text color="#000000" size="22" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="36" width="35" align="center" valign="center" />
+		</block>
+		<block type="text" id="damageText">
+			<location x="252" y="129" />
+			<text color="#000000" size="22" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="48" width="40" align="center" valign="center" />
+		</block>
+		<block type="text" id="handText">
+			<location x="247" y="80" />
+			<text color="#000000" size="25" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="48" width="48" align="center" valign="center" />
+		</block>
+		<block type="text" id="vitText">
+			<location x="247" y="138" />
+			<text color="#000000" size="25" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="48" width="48" align="center" valign="center" />
+		</block>
+		<block type="text" id="controlText">
+			<location x="256" y="360" />
+			<text color="#000000" size="25" />
+			<border color="#FFFFFF" size="2" />
+			<wordwrap height="68" width="44" align="center" valign="center" />
+		</block>
+		<block type="text" id="nameText">
+			<location x="55" y="15" />
+			<text color="#000000" size="25" />
+			<wordwrap height="70" width="190" align="center" valign="near" shrinktofit="True"/>
+		</block>
+		<block type="text" id="resText">
+			<location x="44" y="182" />
+			<text color="#000000" size="25" />
+			<wordwrap height="44" width="212" align="center" valign="center" shrinktofit="True"/>
+		</block>
+		<block type="text" id="effectText">
+			<location x="25" y="252" />
+			<text color="#000000" size="12" />
+			<wordwrap height="140" width="250" align="center" valign="center" shrinktofit="True"/>
+		</block>
+		<block type="text" id="keywordText">
+			<location x="25" y="237" />
+			<text color="#000000" size="15" />
+			<wordwrap height="164" width="250" align="center" valign="near" />
+		</block>
+		<block type="text" id="splitEffectText">
+			<location x="25" y="237" />
+			<text color="#000000" size="10" />
+			<wordwrap height="164" width="250" align="center" valign="far" />
+		</block>
+		<block type="text" id="rarityText">
+			<location x="0" y="416" />
+			<text color="#000000" size="10" />
+			<border color="#FFFFFF" size="1" />
+			<wordwrap height="10" width="300" align="center" valign="center" />
+		</block>
+	</blocks>
+	<template src="proxy/backFoundation.png" default="True">
+		<matches>
+			<match name="Type" value="Foundation" />
+		</matches>
+		<overlayblocks>
+			<conditional>
+				<if property="Block Zone" value="High">
+					<link block="blockHigh" />
+				</if>
+				<elseif property="Block Zone" value="Mid">
+					<link block="blockMid" />
+				</elseif>
+				<elseif property="Block Zone" value="Low">
+					<link block="blockLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Attack Zone" value="High">
+					<link block="speedHigh" />
+				</if>
+				<elseif property="Attack Zone" value="Mid">
+					<link block="speedMid" />
+				</elseif>
+				<elseif property="Attack Zone" value="Low">
+					<link block="speedLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Split Difficulty" contains="0">
+					<link block="difficultySplit" />
+				</if>
+				<elseif property="Split Difficulty" contains="1">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="2">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="3">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="4">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="5">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="6">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="7">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="8">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="9">
+					<link block="difficultySplit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Hand Size" contains="0">
+					<link block="hand" />
+				</if>
+				<elseif property="Hand Size" contains="1">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="2">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="3">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="4">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="5">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="6">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="7">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="8">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="9">
+					<link block="hand" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Vitality" contains="0">
+					<link block="vit" />
+				</if>
+				<elseif property="Vitality" contains="1">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="2">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="3">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="4">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="5">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="6">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="7">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="8">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="9">
+					<link block="vit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Damage" contains="0">
+					<link block="damage" />
+				</if>
+				<elseif property="Damage" contains="1">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="2">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="3">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="4">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="5">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="6">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="7">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="8">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="9">
+					<link block="damage" />
+				</elseif>
+			</conditional>
+			<link block="difficultyFoundation" />
+			<link block="controlFoundation" />
+		</overlayblocks>
+		<textblocks>
+			<link block="nameText">
+				<property name="Name" />
+			</link>
+			<link block="splitDifficultyText">
+				<property name="Split Difficulty" />
+			</link>
+			<link block="difficultyText">
+				<property name="Difficulty" />
+			</link>
+			<link block="blockText">
+				<property name="Block Modifier" />
+			</link>
+			<link block="resText">
+				<property name="Resources" />
+			</link>
+			<link block="splitEffectText" separator="&#10;" >
+				<property name="Split Keywords" />
+				<property name="Split Rules" />
+			</link>
+			<link block="effectText">
+				<property name="CardText" />
+			</link>
+			<link block="speedText">
+				<property name="Speed" />
+			</link>
+			<link block="damageText">
+				<property name="Damage" />
+			</link>
+			<link block="handText">
+				<property name="Hand Size" />
+			</link>
+			<link block="vitText">
+				<property name="Vitality" />
+			</link>
+			<link block="controlText">
+				<property name="Control" />
+			</link>
+			<link block="keywordText">
+				<property name="Keywords" />
+			</link>
+			<link block="rarityText">
+				<property name="Rarity" />
+			</link>
+		</textblocks>
+	</template>
+	<template src="proxy/backAsset.png" >
+		<matches>
+			<match name="Type" value="Asset" />
+		</matches>
+		<overlayblocks>
+			<conditional>
+				<if property="Block Zone" value="High">
+					<link block="blockHigh" />
+				</if>
+				<elseif property="Block Zone" value="Mid">
+					<link block="blockMid" />
+				</elseif>
+				<elseif property="Block Zone" value="Low">
+					<link block="blockLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Attack Zone" value="High">
+					<link block="speedHigh" />
+				</if>
+				<elseif property="Attack Zone" value="Mid">
+					<link block="speedMid" />
+				</elseif>
+				<elseif property="Attack Zone" value="Low">
+					<link block="speedLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Split Difficulty" contains="0">
+					<link block="difficultySplit" />
+				</if>
+				<elseif property="Split Difficulty" contains="1">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="2">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="3">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="4">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="5">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="6">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="7">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="8">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="9">
+					<link block="difficultySplit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Hand Size" contains="0">
+					<link block="hand" />
+				</if>
+				<elseif property="Hand Size" contains="1">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="2">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="3">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="4">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="5">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="6">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="7">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="8">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="9">
+					<link block="hand" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Vitality" contains="0">
+					<link block="vit" />
+				</if>
+				<elseif property="Vitality" contains="1">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="2">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="3">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="4">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="5">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="6">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="7">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="8">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="9">
+					<link block="vit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Damage" contains="0">
+					<link block="damage" />
+				</if>
+				<elseif property="Damage" contains="1">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="2">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="3">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="4">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="5">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="6">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="7">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="8">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="9">
+					<link block="damage" />
+				</elseif>
+			</conditional>
+			<link block="difficultyAsset" />
+			<link block="controlAsset" />
+		</overlayblocks>
+		<textblocks>
+			<link block="nameText">
+				<property name="Name" />
+			</link>
+			<link block="splitDifficultyText">
+				<property name="Split Difficulty" />
+			</link>
+			<link block="difficultyText">
+				<property name="Difficulty" />
+			</link>
+			<link block="blockText">
+				<property name="Block Modifier" />
+			</link>
+			<link block="resText">
+				<property name="Resources" />
+			</link>
+			<link block="effectText">
+				<property name="CardText" />
+			</link>
+			<link block="splitEffectText" separator="&#10;" >
+				<property name="Split Keywords" />
+				<property name="Split Rules" />
+			</link>
+			<link block="speedText">
+				<property name="Speed" />
+			</link>
+			<link block="damageText">
+				<property name="Damage" />
+			</link>
+			<link block="handText">
+				<property name="Hand Size" />
+			</link>
+			<link block="vitText">
+				<property name="Vitality" />
+			</link>
+			<link block="controlText">
+				<property name="Control" />
+			</link>
+			<link block="keywordText">
+				<property name="Keywords" />
+			</link>
+			<link block="rarityText">
+				<property name="Rarity" />
+			</link>
+		</textblocks>
+	</template>
+	<template src="proxy/backAction.png" >
+		<matches>
+			<match name="Type" value="Action" />
+		</matches>
+		<overlayblocks>
+			<conditional>
+				<if property="Block Zone" value="High">
+					<link block="blockHigh" />
+				</if>
+				<elseif property="Block Zone" value="Mid">
+					<link block="blockMid" />
+				</elseif>
+				<elseif property="Block Zone" value="Low">
+					<link block="blockLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Attack Zone" value="High">
+					<link block="speedHigh" />
+				</if>
+				<elseif property="Attack Zone" value="Mid">
+					<link block="speedMid" />
+				</elseif>
+				<elseif property="Attack Zone" value="Low">
+					<link block="speedLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Split Difficulty" contains="0">
+					<link block="difficultySplit" />
+				</if>
+				<elseif property="Split Difficulty" contains="1">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="2">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="3">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="4">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="5">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="6">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="7">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="8">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="9">
+					<link block="difficultySplit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Hand Size" contains="0">
+					<link block="hand" />
+				</if>
+				<elseif property="Hand Size" contains="1">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="2">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="3">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="4">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="5">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="6">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="7">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="8">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="9">
+					<link block="hand" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Vitality" contains="0">
+					<link block="vit" />
+				</if>
+				<elseif property="Vitality" contains="1">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="2">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="3">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="4">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="5">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="6">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="7">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="8">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="9">
+					<link block="vit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Damage" contains="0">
+					<link block="damage" />
+				</if>
+				<elseif property="Damage" contains="1">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="2">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="3">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="4">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="5">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="6">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="7">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="8">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="9">
+					<link block="damage" />
+				</elseif>
+			</conditional>
+			<link block="difficultyAction" />
+			<link block="controlAction" />
+		</overlayblocks>
+		<textblocks>
+			<link block="nameText">
+				<property name="Name" />
+			</link>
+			<link block="splitDifficultyText">
+				<property name="Split Difficulty" />
+			</link>
+			<link block="difficultyText">
+				<property name="Difficulty" />
+			</link>
+			<link block="blockText">
+				<property name="Block Modifier" />
+			</link>
+			<link block="resText">
+				<property name="Resources" />
+			</link>
+			<link block="splitEffectText" separator="&#10;" >
+				<property name="Split Keywords" />
+				<property name="Split Rules" />
+			</link>
+			<link block="effectText">
+				<property name="CardText" />
+			</link>
+			<link block="speedText">
+				<property name="Speed" />
+			</link>
+			<link block="damageText">
+				<property name="Damage" />
+			</link>
+			<link block="handText">
+				<property name="Hand Size" />
+			</link>
+			<link block="vitText">
+				<property name="Vitality" />
+			</link>
+			<link block="controlText">
+				<property name="Control" />
+			</link>
+			<link block="keywordText">
+				<property name="Keywords" />
+			</link>
+			<link block="rarityText">
+				<property name="Rarity" />
+			</link>
+		</textblocks>
+	</template>
+	<template src="proxy/backAttack.png" >
+		<matches>
+			<match name="Type" value="Attack" />
+		</matches>
+		<overlayblocks>
+			<conditional>
+				<if property="Block Zone" value="High">
+					<link block="blockHigh" />
+				</if>
+				<elseif property="Block Zone" value="Mid">
+					<link block="blockMid" />
+				</elseif>
+				<elseif property="Block Zone" value="Low">
+					<link block="blockLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Attack Zone" value="High">
+					<link block="speedHigh" />
+				</if>
+				<elseif property="Attack Zone" value="Mid">
+					<link block="speedMid" />
+				</elseif>
+				<elseif property="Attack Zone" value="Low">
+					<link block="speedLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Split Difficulty" contains="0">
+					<link block="difficultySplit" />
+				</if>
+				<elseif property="Split Difficulty" contains="1">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="2">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="3">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="4">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="5">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="6">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="7">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="8">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="9">
+					<link block="difficultySplit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Hand Size" contains="0">
+					<link block="hand" />
+				</if>
+				<elseif property="Hand Size" contains="1">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="2">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="3">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="4">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="5">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="6">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="7">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="8">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="9">
+					<link block="hand" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Vitality" contains="0">
+					<link block="vit" />
+				</if>
+				<elseif property="Vitality" contains="1">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="2">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="3">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="4">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="5">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="6">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="7">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="8">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="9">
+					<link block="vit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Damage" contains="0">
+					<link block="damage" />
+				</if>
+				<elseif property="Damage" contains="1">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="2">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="3">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="4">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="5">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="6">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="7">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="8">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="9">
+					<link block="damage" />
+				</elseif>
+			</conditional>
+			<link block="difficultyAttack" />
+			<link block="controlAttack" />
+		</overlayblocks>
+		<textblocks>
+			<link block="nameText">
+				<property name="Name" />
+			</link>
+			<link block="splitDifficultyText">
+				<property name="Split Difficulty" />
+			</link>
+			<link block="difficultyText">
+				<property name="Difficulty" />
+			</link>
+			<link block="blockText">
+				<property name="Block Modifier" />
+			</link>
+			<link block="resText">
+				<property name="Resources" />
+			</link>
+			<link block="splitEffectText" separator="&#10;" >
+				<property name="Split Keywords" />
+				<property name="Split Rules" />
+			</link>
+			<link block="effectText">
+				<property name="CardText" />
+			</link>
+			<link block="speedText">
+				<property name="Speed" />
+			</link>
+			<link block="damageText">
+				<property name="Damage" />
+			</link>
+			<link block="handText">
+				<property name="Hand Size" />
+			</link>
+			<link block="vitText">
+				<property name="Vitality" />
+			</link>
+			<link block="controlText">
+				<property name="Control" />
+			</link>
+			<link block="keywordText">
+				<property name="Keywords" />
+			</link>
+			<link block="rarityText">
+				<property name="Rarity" />
+			</link>
+		</textblocks>
+	</template>
+	<template src="proxy/backChar.png" >
+		<matches>
+			<match name="Type" value="Character" />
+		</matches>
+		<overlayblocks>
+			<conditional>
+				<if property="Block Zone" value="High">
+					<link block="blockHigh" />
+				</if>
+				<elseif property="Block Zone" value="Mid">
+					<link block="blockMid" />
+				</elseif>
+				<elseif property="Block Zone" value="Low">
+					<link block="blockLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Attack Zone" value="High">
+					<link block="speedHigh" />
+				</if>
+				<elseif property="Attack Zone" value="Mid">
+					<link block="speedMid" />
+				</elseif>
+				<elseif property="Attack Zone" value="Low">
+					<link block="speedLow" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Split Difficulty" contains="0">
+					<link block="difficultySplit" />
+				</if>
+				<elseif property="Split Difficulty" contains="1">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="2">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="3">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="4">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="5">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="6">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="7">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="8">
+					<link block="difficultySplit" />
+				</elseif>
+				<elseif property="Split Difficulty" contains="9">
+					<link block="difficultySplit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Hand Size" contains="0">
+					<link block="hand" />
+				</if>
+				<elseif property="Hand Size" contains="1">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="2">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="3">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="4">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="5">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="6">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="7">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="8">
+					<link block="hand" />
+				</elseif>
+				<elseif property="Hand Size" contains="9">
+					<link block="hand" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Vitality" contains="0">
+					<link block="vit" />
+				</if>
+				<elseif property="Vitality" contains="1">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="2">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="3">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="4">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="5">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="6">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="7">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="8">
+					<link block="vit" />
+				</elseif>
+				<elseif property="Vitality" contains="9">
+					<link block="vit" />
+				</elseif>
+			</conditional>
+			<conditional>
+				<if property="Damage" contains="0">
+					<link block="damage" />
+				</if>
+				<elseif property="Damage" contains="1">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="2">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="3">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="4">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="5">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="6">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="7">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="8">
+					<link block="damage" />
+				</elseif>
+				<elseif property="Damage" contains="9">
+					<link block="damage" />
+				</elseif>
+			</conditional>
+			<link block="difficultyAction" />
+			<link block="controlAction" />
+		</overlayblocks>
+		<textblocks>
+			<link block="nameText">
+				<property name="Name" />
+			</link>
+			<link block="difficultyText">
+				<property name="Difficulty" />
+			</link>
+			<link block="splitDifficultyText">
+				<property name="Split Difficulty" />
+			</link>
+			<link block="blockText">
+				<property name="Block Modifier" />
+			</link>
+			<link block="resText">
+				<property name="Resources" />
+			</link>
+			<link block="splitEffectText" separator="&#10;" >
+				<property name="Split Keywords" />
+				<property name="Split Rules" />
+			</link>
+			<link block="effectText">
+				<property name="CardText" />
+			</link>
+			<link block="speedText">
+				<property name="Speed" />
+			</link>
+			<link block="damageText">
+				<property name="Damage" />
+			</link>
+			<link block="handText">
+				<property name="Hand Size" />
+			</link>
+			<link block="vitText">
+				<property name="Vitality" />
+			</link>
+			<link block="controlText">
+				<property name="Control" />
+			</link>
+			<link block="keywordText">
+				<property name="Keywords" />
+			</link>
+			<link block="rarityText">
+				<property name="Rarity" />
+			</link>
+		</textblocks>
+	</template>
+</templates>
