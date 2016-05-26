@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	name="Universal Fighting System" tags="UFS" iconurl="http://jascogames.crystalcommerce.com/files/assets/img/UFS%20Yellow%20Logo.png" 
-	setsurl="http://forums.jascogames.com/forums/forumdisplay.php?52-UFS-Online" gameurl="http://forums.jascogames.com/forums/forumdisplay.php?52-UFS-Online" 
-	authors="FenMiHuo, rAn, Toby" 
-	description="The Universal Fighitng System is a unique game that has access to the best fighting video game licenses and popular media in the world. Each set of UFS features one license and is standalone, but all sets are compatible with each other." 
-	id="b74079e6-4dc7-4f0f-9025-b4e444555265" 
-	octgnVersion="3.1.29.120" 
-	version="3.2.1.0" 
-	markersize="18">
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Universal Fighting System" tags="UFS" iconurl="http://jascogames.crystalcommerce.com/files/assets/img/UFS%20Yellow%20Logo.png" setsurl="http://forums.jascogames.com/forums/forumdisplay.php?52-UFS-Online" gameurl="http://forums.jascogames.com/forums/forumdisplay.php?52-UFS-Online" authors="FenMiHuo, rAn, Toby" description="The Universal Fighitng System is a unique game that has access to the best fighting video game licenses and popular media in the world. Each set of UFS features one license and is standalone, but all sets are compatible with each other." id="b74079e6-4dc7-4f0f-9025-b4e444555265" octgnVersion="3.1.29.120" version="2015.10.01.02" markersize="18" scriptVersion="2015.07.10.04">
 	<scripts>
 		<script src="scripts/actions.py" />
 	</scripts>
 	<proxygen definitionsrc="proxy/proxygen.xml" />
 	<card back="cards/back.jpg" front="cards/front.jpg" width="63" height="88" cornerRadius="2">
+		<property name="Card Number" type="String" hidden="True" ignoreText="False" textKind="Enum" />
+		<property name="Set Code" type="String" hidden="True" ignoreText="False" />
 		<property name="Format" type="String" hidden="False" ignoreText="True" />
+		<property name="Banned" type="String" hidden="True" ignoreText="True" />
 		<property name="Difficulty" type="String" hidden="False" ignoreText="False" textKind="Enum" />
 		<property name="Control" type="String" hidden="False" ignoreText="False" textKind="Enum" />
 		<property name="Block Modifier" type="String" hidden="False" ignoreText="False" textKind="Enum" />
@@ -26,10 +21,14 @@
 		<property name="Damage" type="String" hidden="False" ignoreText="False" textKind="Enum" />
 		<property name="Hand Size" type="String" hidden="False" ignoreText="False" textKind="Enum" />
 		<property name="Vitality" type="String" hidden="False" ignoreText="False" textKind="Enum" />
+		<property name="Gender" type="String" hidden="False" ignoreText="False" />
+		<property name="Blood Type" type="String" hidden="False" ignoreText="False" />
 		<property name="CardText" type="String" hidden="False" ignoreText="False" />
+		<property name="Errata" type="String" hidden="True" ignoreText="False" />
 		<property name="Rarity" type="String" hidden="False" ignoreText="True" />
 		<property name="Split Difficulty" type="String" hidden="False" ignoreText="False" textKind="Enum" />
 		<property name="Split Rules" type="String" hidden="False" ignoreText="True" />
+		<property name="Split Errata" type="String" hidden="False" ignoreText="True" />
 		<property name="Split Keywords" type="String" hidden="False" ignoreText="True" />
 	</card>
 	<table name="Table" visibility="undefined" ordered="False" width="640" height="480" board="background/Simulated_Wood.jpg" boardPosition="0,0,0,0" background="background/Simulated_Wood.jpg" backgroundStyle="uniformToFill">

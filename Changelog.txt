@@ -1,0 +1,36 @@
+2014-02-06: Added new properties for Blood Type and Gender on cards in definition.xml
+2014-02-06: Added new properties for Set Code on cards in definition.xml
+2014-02-06: Removed incorrect attack zone and speed from the foundation "Shiranui-Ryu Ninjutsu".
+2014-02-06: Added card number and set codes for "2013 Promos" ("75b3a308-ff6e-40ea-8ea5-d3fdb3fe9cec").
+2014-02-07: Changed all "[resource]" into "{resource}".
+
+	Change from "\[(Air|All|Chaos|Death|Earth|Evil|Fire|Good|Infinity|Life|Order|Void|Water)\]" to "{\1}" 
+
+2014-02-07: Fixed all incorrect uppercasing of resoures (from GAira to Gaira, from WaterfAll to Waterfall etc).
+
+	Change from "([A-Za-z])(Air|All|Chaos|Death|Earth|Evil|Fire|Good|Infinity|Life|Order|Void|Water)" to "\1\L\2"
+
+2014-02-07: Fixed most incorrect delimiters between abilities on older cards that used "text.New text" without a space.
+
+	Change from "(\.)([A-Za-z]{1})" to "\.  \2".
+
+2014-02-07: Replaced misspelled "Chun Li" to "Chun-Li" and removed incorrect ":" from keyword in card "Hoyoku-Sen" and others.
+
+	Change from "Chun Li: " to "Chun-Li "
+
+2014-02-07: Fixed misspelled Powerful keyword.
+
+	Change from "Powerfu:" and "Poweful:" to "Powerful:"
+
+2014-02-08: Fixed misspelled Destroy text in card "Loyal at all Costs" and others.
+
+	Change from "Destory " to "Destroy "
+
+2014-02-10: Add support for "Banned" and "Errata" in the definition file.
+2014-02-10: Add support for "Split Errata" in the definition file.
+2014-02-10: Added Banned status for "Ballistic Snap Kick"
+2014-02-10: Added Blood Type, Gender and Errata for "Phil Birch"
+2014-02-10: Cleaned up syntax for 6-point promos, added set code and card number for 6-point promos.
+
+2014-02-13: Added new empty tags for Set Code, Card Number, Errata, Banned, Gender and Blood Type to all sets.
+2014-02-13: Fixed proper tab-alignment on tags in the set files.
