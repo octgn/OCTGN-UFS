@@ -911,7 +911,7 @@
       <property name="Block Modifier" value="1"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value="4"/>
-      <property name="Attack Zone" value="4"/>
+      <property name="Attack Zone" value="Mid"/>
       <property name="Damage" value="4"/>
       <property name="Hand Size" value=""/>
       <property name="Vitality" value=""/>
