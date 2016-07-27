@@ -1,3 +1,5 @@
+7-26-2016 Updated cards to standard, fixed typos, and added Champ Promos 3
+
 2014-02-06: Added new properties for Blood Type and Gender on cards in definition.xml
 2014-02-06: Added new properties for Set Code on cards in definition.xml
 2014-02-06: Removed incorrect attack zone and speed from the foundation "Shiranui-Ryu Ninjutsu".
