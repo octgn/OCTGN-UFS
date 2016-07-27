@@ -1401,7 +1401,7 @@
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Standard – Extended – Legacy" />
 		</card>
-		<card id="cbd2ac21-ccaf-4b84-87b3-e278b28128bb" name="Strength of Trail">
+		<card id="cbd2ac21-ccaf-4b84-87b3-e278b28128bb" name="Strength of Tail">
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="SE" />
 			<property name="Control" value="5" />
