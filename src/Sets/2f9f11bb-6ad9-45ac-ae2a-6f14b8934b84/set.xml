@@ -24,7 +24,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7972668e-1853-4de7-95f7-8b54e81ba8b9" name="Saint Rose Orphanage">
@@ -50,7 +50,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="97137c48-dc6f-43cc-a884-7d8241d2b236" name="Dark Corruption">
@@ -76,7 +76,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="b801b9e6-f968-4679-b03b-3216e6062458" name="Dual Blade Rapture">
@@ -102,7 +102,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="88d2df7d-bac7-4673-9737-31653c766452" name="Surprise Punishment">
@@ -128,7 +128,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="23009f3c-ced1-48ee-8398-8bcc3f9345c2" name="Scouting the Enemy">
@@ -154,7 +154,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="5b9fd2b7-9a0d-449d-92b5-d44c11d51878" name="Blessed">
@@ -180,7 +180,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="09daa0ac-461c-41bf-b5b5-6b20cb365d2b" name="Worthy Initiate">
@@ -188,7 +188,8 @@
 			<property name="Card Number" value="" />
 			<property name="Difficulty" value="0" />
 			<property name="Rarity" value="Common" />
-			<property name="Control" value="6" />
+			<property
+ name="Control" value="6" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="R Turn this foundation face down: After your opponent loses 1 or more vitality due to one of your card effects, your opponent loses 1 additional vitality. This card is considered a foundation with a blank text box." />
 			<property name="Errata" value="" />
@@ -206,7 +207,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="353aefbb-35f8-4f21-a45c-784639dc8f46" name="Remember Your Masters">
@@ -232,7 +233,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bfd562bc-3c82-4762-b161-361961893cac" name="Allahra">
@@ -258,7 +259,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="19ead64a-a3ba-4087-a994-51d9ce49b59d" name="Syrithe">
@@ -284,7 +285,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="901195f4-b4b1-4503-9738-98654f447b77" name="Omniel">
@@ -310,7 +311,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="9c0cc2db-c89a-447c-bd71-0033b490e954" name="Animate Fusion">
@@ -336,7 +337,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="65f986f6-5f7a-4cbc-bdf8-2e9cca8daa7b" name="Forward Thrust">
@@ -362,7 +363,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="3b649525-3e84-4dbb-b623-156857385a4d" name="Twin Banishment">
@@ -370,7 +371,8 @@
 			<property name="Card Number" value="" />
 			<property name="Difficulty" value="4" />
 			<property name="Rarity" value="Rare" />
-			<property name="Control" value="2" />
+			<property name="Control"
+ value="2" />
 			<property name="Type" value="Attack" />
 			<property name="CardText" value="E: If this card was played as a reversal, your opponent must destroy 1 foundation as an additonal cost to block this attack." />
 			<property name="Errata" value="" />
@@ -388,7 +390,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="b98404c1-0a41-4b8d-9eb2-7b90a3537b15" name="Shield Strike">
@@ -414,7 +416,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="383dfc39-8760-466f-af66-d2b70bcf71a6" name="Divine Tribulation">
@@ -440,7 +442,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="aeb2f1ff-e2a3-4f0f-a071-bbce1b5816d8" name="Guard Crusher">
@@ -466,7 +468,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="06903392-4097-47cf-af39-2cbb3d56426f" name="Bane Slayer">
@@ -492,7 +494,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="8daa6701-b58f-4829-98b9-61dba616fd45" name="Final Judgement">
@@ -518,7 +520,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1dba91f7-92c6-4dff-99ad-4502844038ef" name="Peaceful Messenger">
@@ -544,7 +546,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="91609704-10ed-458c-9cfc-24bc62574634" name="Watch From Afar">
@@ -568,9 +570,10 @@
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="" />
 			<property name="Split Difficulty" value="" />
-			<property name="Split Rules" value="" />
+			<property name="Split
+ Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6dba524e-98f0-4f5c-a4ca-6f99b877241a" name="Crossing Paths">
@@ -596,7 +599,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="b1ba9696-8781-446d-b3e2-8e2f9ad075ec" name="Brotherhood in Arms">
@@ -622,7 +625,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="19a44902-897c-4837-88b1-f80ea2e078b9" name="Keepers of the Gate">
@@ -648,7 +651,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="a81895d7-1c92-4699-bb68-44cc45bbef51" name="Mortal Bodies">
@@ -674,7 +677,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="807ec397-e4a1-4ceb-ade2-74428dfa5df7" name="A New Discovery">
@@ -700,7 +703,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="af59f51f-e3ec-4ef5-8230-6192700c979d" name="Gabrek">
@@ -726,7 +729,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6ff5b8a0-eca4-4dab-9285-690c8ec77cc9" name="Evening the Odds">
@@ -752,8 +755,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
-			<property name="Banned" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Banned" value=""
+ />
 		</card>
 		<card id="f6460f56-5b0c-4556-9775-8fd9652ac2e7" name="Give Me Your Best Shot">
 			<property name="Set Code" value="" />
@@ -778,7 +782,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="30fa6fcb-31de-4f8d-8a3a-7a6f24dc2479" name="Coltesti Fortress">
@@ -804,7 +808,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="97e1fa79-d7a6-41cb-b0ba-13ebcc4aa03b" name="Spinning Necro Driver">
@@ -830,7 +834,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c686ebab-4db0-49e1-b6f5-22c6128ef736" name="Lunar Catapult">
@@ -856,7 +860,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="33eaf693-389f-4558-90cb-489a5103cb54" name="Rolling Ankle Grab">
@@ -882,7 +886,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="373516ec-4662-474f-bb8c-ae44af27f02d" name="Death Valley Face Plant">
@@ -908,7 +912,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bc081780-bd06-4378-be17-c2eec2621931" name="Reverse Shoulder Launch">
@@ -934,7 +938,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="19d3d60b-b991-4e7c-9ef9-59ae33d26b73" name="Whiplash Buster">
@@ -944,7 +948,8 @@
 			<property name="Rarity" value="Rare" />
 			<property name="Control" value="3" />
 			<property name="Type" value="Attack" />
-			<property name="CardText" value="Combo E: This attack gets +2 speed for each throw attack in your card pool.  E: If this attack deals less than its printed damage, add 1 card from your discard pile to your hand." />
+			<property name="CardText" value="Combo E:
+ This attack gets +2 speed for each throw attack in your card pool.  E: If this attack deals less than its printed damage, add 1 card from your discard pile to your hand." />
 			<property name="Errata" value="" />
 			<property name="Resources" value="Earth Life Order" />
 			<property name="Block Modifier" value="" />
@@ -960,7 +965,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d5cc43ff-b3e2-4da8-b955-601fc0c064ac" name="13th Story Oblivion">
@@ -986,7 +991,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bb292dc7-3cad-45ba-911b-3b2ed12761ce" name="No Sympathy">
@@ -1012,7 +1017,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7eb6a45e-7400-4e81-aa99-9b25add43f49" name="Incomparable Might">
@@ -1038,7 +1043,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d240d338-9b64-4b57-b296-23e64e7f0732" name="Continuous Research">
@@ -1064,7 +1069,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="28c8cb6d-fb9e-4705-a6d2-d8cee907805c" name="Weight of Memory">
@@ -1090,7 +1095,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="09d18a3e-e96b-486e-881c-3d1be6eb8844" name="Eternal Remorse">
@@ -1116,7 +1121,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d1507b0e-3a6d-46a9-9ba4-707c80bbacde" name="A Dying Craft">
@@ -1131,7 +1136,8 @@
 			<property name="Resources" value="Earth Life Order" />
 			<property name="Block Modifier" value="" />
 			<property name="Block Zone" value="" />
-			<property name="Speed" value="" />
+			<property
+ name="Speed" value="" />
 			<property name="Attack Zone" value="" />
 			<property name="Damage" value="" />
 			<property name="Hand Size" value="" />
@@ -1142,7 +1148,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="4fed79c2-9379-4dc5-80ce-56cb2a46a6bc" name="Dark Sanctuary">
@@ -1168,7 +1174,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="afbfcef9-12fb-4154-9bdc-935e29ec7466" name="Kaden**">
@@ -1194,7 +1200,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="456a87a8-475f-4205-b1dd-f8cf1197143d" name="Stopped in its Tracks">
@@ -1220,7 +1226,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c0f4afd6-c94f-4dd3-96e1-1a7c5a9b2f98" name="Uncontrollable Power">
@@ -1246,7 +1252,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="00769a23-ea1e-4d48-a5dd-37993c12ef19" name="Kaden's Blindfold">
@@ -1272,7 +1278,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6225e682-4fd2-437d-8916-0e749f998246" name="Blindside Eruption">
@@ -1298,7 +1304,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="9ac8e8dd-cae9-436d-a658-469d53101a3f" name="Leg Ram">
@@ -1324,8 +1330,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
-			<property name="Banned" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+			<property
+ name="Banned" value="" />
 		</card>
 		<card id="651e28ca-27ed-4247-933b-1ae89edec904" name="Dread Clangor">
 			<property name="Set Code" value="" />
@@ -1350,7 +1357,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="8e74fb74-5b05-41f9-bfaa-1d990cea02d4" name="Flying Body Vice">
@@ -1376,7 +1383,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="e5e161d0-2dc6-4da2-998b-52750e811364" name="Plummeting Doom">
@@ -1402,7 +1409,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="94734938-ac30-4d42-adfb-cab0aaa2e8a2" name="Rising Host">
@@ -1428,7 +1435,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="29d09c64-84a0-44fd-93d7-60f9fa811668" name="Dark Tide Summon">
@@ -1454,7 +1461,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="09c33122-d2bf-4cad-9e41-80735baa81c8" name="Paid to Protect">
@@ -1480,7 +1487,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="ff00c3be-f4b6-4f27-ae18-a125522d1418" name="Keeping Order">
@@ -1506,7 +1513,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="016ba765-03f4-4ac1-a5bb-d4f0cc8ae5d4" name="The Bell's Toll">
@@ -1517,7 +1524,8 @@
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="E Commit: This attack gets +X damage (maximum 3). X equals the number of face down foundations in your opponent's staging area.  F Commit, destroy 1 foundation: Destroy 1 face down foundation in your opponent's staging area." />
-			<property name="Errata" value="" />
+			<property
+ name="Errata" value="" />
 			<property name="Resources" value="Earth Order Void" />
 			<property name="Block Modifier" value="4" />
 			<property name="Block Zone" value="Mid" />
@@ -1532,7 +1540,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="ff77195b-1ab3-4487-8613-c738b8e9f55f" name="Sole Purpose">
@@ -1558,7 +1566,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c9453bc5-b940-4186-a820-907e1d8a8fd9" name="Absolute Loyalty">
@@ -1584,7 +1592,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="ecaeddd1-1f74-4295-af19-703aac3edb9f" name="United We Stand">
@@ -1610,7 +1618,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="8f997300-6b3f-4377-a941-001cd4184e4a" name="Terrifying Opponent">
@@ -1636,7 +1644,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="af03866f-eb4e-471c-b397-1f6d3840fa8d" name="Nehtali**">
@@ -1662,7 +1670,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6660d408-a7ec-49a2-b828-293beb3ae29f" name="A Heavenly Match">
@@ -1688,7 +1696,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d730807f-0d2c-4f00-992a-6b095fa1fee6" name="Out of Your League">
@@ -1698,7 +1706,8 @@
 			<property name="Rarity" value="Ultra Rare" />
 			<property name="Control" value="4" />
 			<property name="Type" value="Action" />
-			<property name="CardText" value="R Lose 3 Vitality: After your opponent plays a response ability, cancel its effects. Remove this card from the game.  F: Reveal the top X cards of your deck and replace them in any order face up. X equals the number of mid and high attacks in your card pool." />
+			<property name="CardText" value="R Lose 3 Vitality: After your opponent plays a response ability, cancel its effects. Remove this card from the game.  F: Reveal the top X cards of your deck and replace them in any order face up. X equals the number of mid and high attacks in your card pool."
+ />
 			<property name="Errata" value="" />
 			<property name="Resources" value="Chaos Fire Water" />
 			<property name="Block Modifier" value="" />
@@ -1714,7 +1723,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="32357fc1-28c2-42d1-be2c-b72198b0915a" name="Nehtali's Pennate Guard">
@@ -1740,7 +1749,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="0cd7c3ef-a76f-40d7-ba13-28862c20239c" name="Cataclysm Beam">
@@ -1766,7 +1775,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="cb811c03-8652-413c-ada0-01a822b40175" name="Ruthless Advance">
@@ -1792,7 +1801,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="fa9239eb-7865-460b-9c87-277e6922dc1a" name="Searing Inferno">
@@ -1818,7 +1827,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="a5089b15-9030-44bf-b836-f53dd674d279" name="Choke Throw">
@@ -1844,7 +1853,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="3a92eca9-8f44-4415-8d93-8e60881b66f2" name="Flash Lightning">
@@ -1870,7 +1879,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1c2a14c6-d201-47c2-b8bd-0dcca76698ca" name="Crescent Moon Hook">
@@ -1894,9 +1903,10 @@
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="Weapon - Reversal" />
 			<property name="Split Difficulty" value="" />
-			<property name="Split Rules" value="" />
+			<property name="Split
+ Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="9f4c24d2-67be-4b95-9b70-4a02451734be" name="Chasm Buster">
@@ -1922,7 +1932,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="4c73052c-fd2a-4bc2-a59d-7eb21159f428" name="Energetic">
@@ -1948,7 +1958,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6c820897-7fdd-4d5e-9034-cd49302340a8" name="Dual Persona">
@@ -1974,7 +1984,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="0f457e7d-d8b8-4d66-b22a-b1144a5af4d6" name="Observing the Fight">
@@ -2000,7 +2010,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bf3f3a22-e9a7-4198-a63d-17788a0399ee" name="Friends in High Places">
@@ -2026,7 +2036,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="b5e7afd8-7149-44e6-81bb-94d9adc217df" name="Best of Both Evils">
@@ -2052,7 +2062,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7edfdd37-a635-4804-90c0-2890e8ec954a" name="Don't Forget This">
@@ -2078,14 +2088,15 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="693d8fcf-3645-4060-a6ce-b0db305ddb01" name="Guarded Secrets">
 			<property name="Set Code" value="" />
 			<property name="Card Number" value="" />
 			<property name="Difficulty" value="4" />
-			<property name="Rarity" value="Starter Exclusive" />
+			<property name="Rarity" value="Starter
+ Exclusive" />
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="R Commit, discard 1 momentum: After your opponent plays an enhance ability printed on an asset or foundation, cancel its effects.  Nehtali or Vespera R Lose 1 vitality: Before making a control check to play an attack, that control check gets +1." />
@@ -2104,7 +2115,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c5ac16f3-46c9-4758-a4f0-685609e88778" name="Satoshi">
@@ -2130,7 +2141,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="0caa468b-63fa-4c00-bf93-400545dcbf60" name="Superior Technique">
@@ -2156,7 +2167,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7636a830-6b0b-49b8-8b6b-ce29f897e1a1" name="Tenbatsu">
@@ -2182,7 +2193,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6c418645-6ae8-4174-b512-1f26ed7a5383" name="Inner Peace">
@@ -2208,7 +2219,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6fbf3a80-3d32-469d-ac2d-901c5639456e" name="Poison Dart">
@@ -2234,7 +2245,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="9d0450b7-9aa0-4ed7-ae1a-24566269b2d8" name="Blitz Shuriken">
@@ -2260,7 +2271,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="0c120264-fd65-490c-9768-98acce592fa2" name="Oni High Slash">
@@ -2270,7 +2281,8 @@
 			<property name="Rarity" value="Starter Exclusive" />
 			<property name="Control" value="3" />
 			<property name="Type" value="Attack" />
-			<property name="CardText" value="Combo E: This attack gets +X damage. X equals the number of enhances you have played this Enhance Step.  E Commit 1 foundation: Change the zone of this attack to mid. This attack gets +2 damage." />
+			<property name="CardText" value="Combo E: This attack gets +X damage. X equals the number of enhances you
+ have played this Enhance Step.  E Commit 1 foundation: Change the zone of this attack to mid. This attack gets +2 damage." />
 			<property name="Errata" value="" />
 			<property name="Resources" value="Air All Void" />
 			<property name="Block Modifier" value="1" />
@@ -2286,7 +2298,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c4d817ba-b562-4c05-8e73-ebc576f53edf" name="Oni Low Slash">
@@ -2312,7 +2324,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1cb40853-81d4-437c-8230-54e7461e2914" name="Segaki Offering">
@@ -2338,7 +2350,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="67c917af-19a5-4386-95c8-307cf7a9f9fa" name="Yokai Fury">
@@ -2364,7 +2376,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="fce50786-46bb-4c8f-ba87-9c9fe418ff32" name="Jigoku Banishment">
@@ -2390,7 +2402,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bda37add-7f31-48e5-b86d-49220b357a95" name="Weapon Master">
@@ -2416,7 +2428,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="651fb68e-5074-4df2-94b2-012821da1739" name="A Warrior's Discipline">
@@ -2442,7 +2454,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="5654ef98-b561-4d72-9d12-635de419d773" name="Perfect Accuracy">
@@ -2454,7 +2466,8 @@
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="E Turn this foundation face down: Choose 1 foundation in your opponent's staging area. Abilities on that card cannot be played until the end of this turn. This card is considered a foundation with a blank text box." />
 			<property name="Errata" value="" />
-			<property name="Resources" value="Air All Void" />
+			<property
+ name="Resources" value="Air All Void" />
 			<property name="Block Modifier" value="3" />
 			<property name="Block Zone" value="High" />
 			<property name="Speed" value="" />
@@ -2468,7 +2481,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="62d20537-9e7a-4e0d-9f9b-666c1f0a5503" name="Superior Assailant">
@@ -2494,7 +2507,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="90c5889c-d218-4b3e-8660-17d76f430efb" name="Held Captive">
@@ -2520,7 +2533,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="ecd62b28-f03d-4efd-a47c-a510bcdfb4c6" name="Swift and Nimble">
@@ -2546,7 +2559,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="5049c2bb-58b3-4d2f-b7b1-299e07c68a99" name="Escape Artist">
@@ -2572,7 +2585,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="0cb32df1-a7ca-4360-9c8e-f05483d33c2b" name="Super Skull Man 33">
@@ -2598,7 +2611,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="f0d4927c-b466-4c78-a243-d7f98c44fe67" name="Luck">
@@ -2624,7 +2637,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="f233958e-74b8-487e-9687-25a69cb5310a" name="Super Hero Know-How">
@@ -2640,7 +2653,8 @@
 			<property name="Block Modifier" value="2" />
 			<property name="Block Zone" value="Mid" />
 			<property name="Speed" value="" />
-			<property name="Attack Zone" value="" />
+			<property
+ name="Attack Zone" value="" />
 			<property name="Damage" value="" />
 			<property name="Hand Size" value="" />
 			<property name="Vitality" value="" />
@@ -2650,7 +2664,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="e7d57956-7d19-46c9-bb4e-9c741e2efbb8" name="Gadget Belt">
@@ -2676,7 +2690,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="513da486-761a-402f-add2-4427903e1684" name="SPLAM!">
@@ -2702,7 +2716,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="928ef6fa-53c4-47ca-92d6-5e6af02474f2" name="KAPLOW!!">
@@ -2728,7 +2742,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="598871fd-c144-4f97-9430-e8fe96dc4147" name="ZAAAAP!!!">
@@ -2754,7 +2768,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d9a02356-f022-4329-b6a6-ea281256c040" name="BANG!">
@@ -2780,7 +2794,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="090fe059-4cdc-4966-b7c7-f787ca7baff0" name="ZING!">
@@ -2806,7 +2820,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="4a90d972-faf6-430b-b9a5-295ba5c10a00" name="BAM!">
@@ -2832,10 +2846,11 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
-		<card id="a0e31b0d-8375-42b4-b65a-6fd5744b6b0f" name="KABLAMMO!">
+		<card id="a0e31b0d-8375-42b4-b65a-6fd5744b6b0f"
+ name="KABLAMMO!">
 			<property name="Set Code" value="" />
 			<property name="Card Number" value="" />
 			<property name="Difficulty" value="5" />
@@ -2858,7 +2873,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d52240be-2e77-45a3-bab2-69f3747fa9a3" name="A Hero's Training">
@@ -2884,7 +2899,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c36722cb-d931-4738-b1d1-94cd4ba83da0" name="Breakfast">
@@ -2910,7 +2925,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6d8ee54d-b6dd-40e0-aecf-913b28a8fe22" name="Coolness!">
@@ -2936,7 +2951,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="78f4f3f7-5471-43f4-80d4-4a9ffd4a54e9" name="Crime Fighter">
@@ -2962,7 +2977,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7c690be4-97c9-4a71-a3ff-be4062693dc0" name="Super Fast Disguise">
@@ -2988,7 +3003,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="55be5a17-6735-463a-a08a-2248cd6fa67e" name="Pick on Someone Your Own Size!">
@@ -3014,12 +3029,13 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="4424a93c-5e76-44c7-acc9-39b728657803" name="Hero Salute">
 			<property name="Set Code" value="" />
-			<property name="Card Number" value="" />
+			<property
+ name="Card Number" value="" />
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="5" />
@@ -3040,7 +3056,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="2f5d03f1-bf5f-4e69-8f40-ae823d799983" name="Vespera">
@@ -3066,7 +3082,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="b3d2205a-9ba7-4e13-b8fa-55fbbb17a61c" name="Entangle">
@@ -3092,7 +3108,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1611cd2d-19e2-419d-b46b-210e7a0ab8c7" name="Transfix">
@@ -3118,7 +3134,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1a259fb6-828b-45c1-ac0e-0377dbacd3bf" name="Kalahntra">
@@ -3144,7 +3160,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="b5a1feee-81d5-4722-a274-f108718d1677" name="Sting Kick">
@@ -3170,7 +3186,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="18488780-2f67-4747-a19e-6807110fb469" name="Cascading Fear">
@@ -3196,7 +3212,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bd741897-be2b-4ec6-920a-c15fc10ceefa" name="Paralyzing Touch">
@@ -3206,7 +3222,8 @@
 			<property name="Rarity" value="Ultra Rare" />
 			<property name="Control" value="2" />
 			<property name="Type" value="Attack" />
-			<property name="CardText" value="{Death} E: If this attack was played as a reversal, destroy 1 rewady foundation in your opponent's staging area.  {Water} E: If this attack deals damage, discard it from your card pool." />
+			<property name="CardText"
+ value="{Death} E: If this attack was played as a reversal, destroy 1 rewady foundation in your opponent's staging area.  {Water} E: If this attack deals damage, discard it from your card pool." />
 			<property name="Errata" value="" />
 			<property name="Resources" value="Death Fire Water" />
 			<property name="Block Modifier" value="2" />
@@ -3222,7 +3239,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="fb22add9-8f5b-47aa-a6b2-8a6610026bba" name="Reverse Spider Uppercut">
@@ -3248,7 +3265,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="a576ba8b-cbfc-40f0-9564-4254d9465fdc" name="Grasping Widow">
@@ -3274,7 +3291,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="3b46365f-9da1-4718-9fa2-8903028555af" name="Forsaken Berserker">
@@ -3300,7 +3317,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="fc81df38-7209-44f3-ab98-1d26662128a2" name="Eradicate">
@@ -3326,7 +3343,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="63291880-4b0c-4b95-a85f-8e01109b5e11" name="Celestial Being">
@@ -3352,7 +3369,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="084f6fe0-64a5-4b1a-a9d3-b45f64a8a566" name="Left for Dead">
@@ -3378,7 +3395,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="e31f1fe1-5f26-4743-a7e0-669309b6439c" name="Into the Spider's Web">
@@ -3393,7 +3410,8 @@
 			<property name="Resources" value="Death Fire Water" />
 			<property name="Block Modifier" value="" />
 			<property name="Block Zone" value="" />
-			<property name="Speed" value="" />
+			<property
+ name="Speed" value="" />
 			<property name="Attack Zone" value="" />
 			<property name="Damage" value="" />
 			<property name="Hand Size" value="" />
@@ -3404,7 +3422,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="da3cc9aa-b4ea-4059-886d-9e1a7d454533" name="Man Hunt">
@@ -3430,7 +3448,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="688fff3d-cb7e-4746-8089-f3cfd289c0d9" name="Penance">
@@ -3456,7 +3474,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="68c6ad26-6c2f-4c40-bb8c-8630d52f7eda" name="Intoxicating Seduction">
@@ -3482,7 +3500,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="48bef20b-0baa-4b21-a411-d04d14928258" name="Devour Your Prey">
@@ -3508,7 +3526,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="8b4b427a-8f00-4c5a-98df-dc2a32f54bd0" name="Vincent Grey">
@@ -3534,7 +3552,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="28e69f3c-abba-47bb-9c85-38571b1dd4b9" name="Too Fast for You">
@@ -3560,7 +3578,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="84a5c37d-7c94-4de6-8713-5d0a4fa6f613" name="Military Uniform">
@@ -3577,7 +3595,8 @@
 			<property name="Block Zone" value="Mid" />
 			<property name="Speed" value="" />
 			<property name="Attack Zone" value="" />
-			<property name="Damage" value="" />
+			<property
+ name="Damage" value="" />
 			<property name="Hand Size" value="" />
 			<property name="Vitality" value="" />
 			<property name="Gender" value="" />
@@ -3586,7 +3605,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="632b38c8-2fe0-44cb-942e-d0c6da428353" name="Power Vambraces">
@@ -3612,7 +3631,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="93e6708e-3259-461a-8aba-37cb004349ed" name="Psychic Upper">
@@ -3638,7 +3657,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="38e2a2b9-e19a-4b5b-b554-025baba85d97" name="Jackhammer Kick">
@@ -3664,7 +3683,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="024121f4-906e-4604-b65e-a230dc3806f6" name="Ballistic Snap Kick">
@@ -3690,7 +3709,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="Standard" />
 		</card>
 		<card id="85576e4b-2578-42f1-82ba-c0ad6ed2d25e" name="Phoenix Revival">
@@ -3716,7 +3735,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6614cc40-21d2-4db2-9537-970c5d819633" name="Gatling Knuckle">
@@ -3742,7 +3761,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="4e4d7442-212b-4844-84b4-34eb0ae2544c" name="Counter Dragon Kick">
@@ -3767,8 +3786,9 @@
 			<property name="Keywords" value="Kick - Reversal - Combo (Punch)" />
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
-			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property
+ name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="6a1f8e49-c7cc-4a52-90eb-8a49a725abab" name="Mythic Fire Storm">
@@ -3794,7 +3814,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="503642e3-ff61-4303-b3d1-527066d939b0" name="Instability">
@@ -3820,7 +3840,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="fe7cd62b-c138-45f6-b4ff-f8af2c0c5cd8" name="Inner Struggle">
@@ -3846,7 +3866,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c8453737-e63d-4c45-aa8e-f9b69bda290f" name="Support of a Nation">
@@ -3872,7 +3892,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="2cc9a920-37f1-431c-8e16-6476c914fde6" name="Pride and Glory">
@@ -3898,7 +3918,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="fa18a4ad-4031-40be-9352-d1c1ad4d0685" name="Body Count">
@@ -3924,7 +3944,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1e14f80f-164d-418e-999a-4669f34cf42a" name="Enki Tensions">
@@ -3950,7 +3970,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="00244bae-dc14-4cd1-8825-86327c541651" name="Fortress Frame">
@@ -3960,7 +3980,8 @@
 			<property name="Rarity" value="Starter Exclusive" />
 			<property name="Control" value="4" />
 			<property name="Type" value="Foundation" />
-			<property name="CardText" value="R Remove the top card of your deck from the game: After a player plays an enhance ability printed on their character, this attack gets +1 or -1 speed (your choice). Playable while committed." />
+			<property name="CardText" value="R Remove the top card of your deck from the game: After a player plays an enhance ability printed on their character, this attack gets +1 or -1 speed (your choice). Playable while
+ committed." />
 			<property name="Errata" value="" />
 			<property name="Resources" value="Evil Good Order" />
 			<property name="Block Modifier" value="2" />
@@ -3976,7 +3997,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="1e3564e6-daa3-4279-acb3-f1960dbc3a99" name="Zoey">
@@ -4002,7 +4023,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="bc584efd-cde2-45b9-8587-3421bef6eae0" name="Additional Knowledge">
@@ -4028,7 +4049,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="e98ef604-32cc-4961-8011-0d5293440312" name="Legendary Accomplice">
@@ -4054,7 +4075,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7a240a15-05f5-4330-999c-789749db749f" name="Hornbrook Bach">
@@ -4080,7 +4101,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="dea20aa6-900c-4447-bfb0-17fc45e2191f" name="Gale Blade">
@@ -4106,7 +4127,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="d2346a6e-f856-4da8-9bc9-6f0c74921346" name="Gut Shot">
@@ -4132,7 +4153,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="166d6e7d-e06a-445c-8bba-a7a81b6e4658" name="Sure You Can!">
@@ -4155,10 +4176,11 @@
 			<property name="Gender" value="" />
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="Powerful: 1 - Combo (Ranged)" />
-			<property name="Split Difficulty" value="" />
+			<property name="Split
+ Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="5d98d0be-46b2-406e-8d78-b85155ee484f" name="Focus Charge">
@@ -4184,7 +4206,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="e386a3e9-617e-49f3-8bdb-8faf53e3cd13" name="Maori Defender">
@@ -4210,7 +4232,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="62bec027-e9d1-4fb4-8a43-34e89491b2d0" name="Tsunami Slicer">
@@ -4236,7 +4258,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7ce8393e-6900-4f51-b657-4bb1453d8050" name="Zoey's Neo Cosmic Flare">
@@ -4262,7 +4284,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="3ce54ef8-78f0-4cbd-acc3-51c1316a9aff" name="Warm Wishes">
@@ -4288,7 +4310,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="36f853ba-c394-4616-b692-a9a82592557b" name="An Apple a Day">
@@ -4314,7 +4336,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="7e0d2697-7fc5-4403-9dfc-4c08df70c20d" name="Rejuvenation">
@@ -4340,7 +4362,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="2d42cfd5-0111-4843-868b-263400b28d29" name="Bewitching">
@@ -4350,7 +4372,8 @@
 			<property name="Rarity" value="Common" />
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
-			<property name="CardText" value="E Commit: This attack gets -X speed. X eqausl the number of face up cards in your momentum.  First F Commit: Choose 1 card in your momentum and turn it face up." />
+			<property name="CardText" value="E Commit: This attack gets -X speed. X eqausl the number of face
+ up cards in your momentum.  First F Commit: Choose 1 card in your momentum and turn it face up." />
 			<property name="Errata" value="" />
 			<property name="Resources" value="Air Earth Water" />
 			<property name="Block Modifier" value="3" />
@@ -4366,7 +4389,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="63f07411-1e46-40a6-8d63-0a36522a9047" name="Household Chores">
@@ -4392,7 +4415,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="50c37d0d-54bb-4d98-b4e6-4036523ae9ae" name="Familiar Faces">
@@ -4418,7 +4441,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 		<card id="c4aa584a-3509-4284-9f37-e0779513219a" name="Deadly Precision">
@@ -4444,7 +4467,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended" />
+			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
 		</card>
 	</cards>
