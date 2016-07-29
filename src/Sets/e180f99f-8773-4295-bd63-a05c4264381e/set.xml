@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set name="World of Indines" id="e180f99f-8773-4295-bd63-a05c4264381e" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
 	<cards>
     
@@ -89,7 +89,7 @@
       <property name="Control" value="3"/>
       <property name="Type" value="Attack"/>
       <property name="CardText" value="E: If you have been dealt damage this turn this attack gets +2 damage."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value=""/>
       <property name="Block Zone" value=""/>
       <property name="Speed" value="4"/>
@@ -131,7 +131,7 @@
       <property name="Control" value="2"/>
       <property name="Type" value="Attack"/>
       <property name="CardText" value="E: Players with more than 10 foundations add 2 ready foundations to the top of their deck. E [Your turn] Discard the top card of your deck: This attack gets a damage bonus to the control of the discarded card."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value=""/>
       <property name="Block Zone" value=""/>
       <property name="Speed" value="3"/>
@@ -152,7 +152,7 @@
       <property name="Control" value="3"/>
       <property name="Type" value="Attack"/>
       <property name="CardText" value="E Discard the top 2 cards of your opponent's deck: If both cards discarded were foundations, you may add the first attack you played this turn from your card pool to your momentum and this attack gets Multiple: 1."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value="3"/>
       <property name="Block Zone" value="High"/>
       <property name="Speed" value="4"/>
@@ -173,12 +173,13 @@
       <property name="Control" value="3"/>
       <property name="Type" value="Attack"/>
       <property name="CardText" value="E: If your first attack this turn dealt damage, this attack gets +2 damage and +2 speed."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value="1"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value="3"/>
       <property name="Attack Zone" value="Mid"/>
-      <property name="Damage" value="3"/>
+   
+   <property name="Damage" value="3"/>
       <property name="Hand Size" value=""/>
       <property name="Vitality" value=""/>
       <property name="Keywords" value="Slam"/>
@@ -215,7 +216,7 @@
       <property name="Control" value="6"/>
       <property name="Type" value="Foundation"/>
       <property name="CardText" value="After you bloack a mid attack with this card, it still deals half damage (rounded up)."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value="1"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value=""/>
@@ -236,7 +237,7 @@
       <property name="Control" value="5"/>
       <property name="Type" value="Foundation"/>
       <property name="CardText" value="E: Players with more than 10 foundations must add 1 foundation to the top of their deck. R Commit: After you are dealt damage by an unblocked attack, draw 1 card."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value="2"/>
       <property name="Block Zone" value="Low"/>
       <property name="Speed" value=""/>
@@ -278,7 +279,7 @@
       <property name="Control" value="3"/>
       <property name="Type" value="Foundation"/>
       <property name="CardText" value="First E Remove: If you have 10 or fewer foundations, reduce this attack's damage to 0. Your opponent's next attack this turn gets +X damage. X equals the printed damage of this attack."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value=""/>
       <property name="Block Zone" value=""/>
       <property name="Speed" value=""/>
@@ -341,7 +342,7 @@
       <property name="Control" value="5"/>
       <property name="Type" value="Foundation"/>
       <property name="CardText" value="E Commit: Your attack played as a reversal gets +1 damage, +1 speed and Stun: 1. F Destroy: If your opponent has more than 10 foundations, commit 1 of their foundations."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value="3"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value=""/>
@@ -362,7 +363,7 @@
       <property name="Control" value="4"/>
       <property name="Type" value="Foundation"/>
       <property name="CardText" value="E Commit: If this attack is completely blocked, it still deals 1 damage during the Damage Step. F Destroy: Both players add 1 foundation to the top of their deck."/>
-      <property name="Resources" value="All Holy Order"/>
+      <property name="Resources" value="All Good Order"/>
       <property name="Block Modifier" value="4"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value=""/>
@@ -373,6 +374,7 @@
       <property name="Keywords" value=""/>
       <property name="Split Difficulty" value=""/>
       <property name="Split Rules" value=""/>
+
       <property name="Split Keywords" value=""/>
       <property name="Format" value="Legacy - Extended - Standard"/>
     </card>
@@ -561,7 +563,8 @@
       <property name="Vitality" value=""/>
       <property name="Keywords" value=""/>
       <property name="Split Difficulty" value=""/>
-      <property name="Split Rules" value=""/>
+      <property name="Split
+ Rules" value=""/>
       <property name="Split Keywords" value=""/>
       <property name="Format" value="Legacy - Extended - Standard"/>
     </card>
@@ -760,7 +763,8 @@
       <property name="Control" value="6"/>
       <property name="Type" value="Character"/>
       <property name="CardText" value="E [Once per turn]: This attack gets +3 damage. No more enhances may be played this Enhance Step. R [Once per turn] Destroy 1 foundation: After your opponent plays a foundation, discard it."/>
-      <property name="Resources" value="Death Life Void"/>
+      <property name="Resources" value="Death
+ Life Void"/>
       <property name="Block Modifier" value="0"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value=""/>
@@ -948,7 +952,8 @@
       <property name="Rarity" value="SE"/>
       <property name="Control" value="5"/>
       <property name="Type" value="Foundation"/>
-      <property name="CardText" value="R Commit: After your opponent plays a foundation, add the top card of your discard pile to your hand."/>
+      <property name="CardText" value="R Commit: After your opponent plays a foundation, add the top card
+ of your discard pile to your hand."/>
       <property name="Resources" value="Life Order Void"/>
       <property name="Block Modifier" value="3"/>
       <property name="Block Zone" value="Mid"/>
@@ -1136,7 +1141,8 @@
       <property name="CardText" value="R Remove: After an attack is played, it gets Flash. " />
       <property name="Resources" value="Air All Water" />
       <property name="Block Modifier" value="" />
-      <property name="Block Zone" value="" />
+      <property name="Block
+ Zone" value="" />
       <property name="Speed" value="" />
       <property name="Attack Zone" value="" />
       <property name="Damage" value="" />
@@ -1321,7 +1327,8 @@
       <property name="Attack Zone" value="Mid" />
       <property name="Damage" value="4" />
       <property name="Hand Size" value="" />
-      <property name="Vitality" value="" />
+      <property name="Vitality" value=""
+ />
       <property name="Keywords" value="Breaker: 1 Safe" />
       <property name="Split Difficulty" value="" />
       <property name="Split Rules" value="" />
@@ -1504,7 +1511,8 @@
       <property name="Vitality" value=""/>
       <property name="Keywords" value=""/>
       <property name="Split Difficulty" value=""/>
-      <property name="Split Rules" value=""/>
+      <property name="Split Rules"
+ value=""/>
       <property name="Split Keywords" value=""/>
       <property name="Format" value="Legacy - Extended - Standard"/>
     </card>
@@ -1691,7 +1699,8 @@
       <property name="Vitality" value="" />
       <property name="Keywords" value="Terrain" />
       <property name="Split Difficulty" value="" />
-      <property name="Split Rules" value="" />
+      <property name="Split Rules"
+ value="" />
       <property name="Split Keywords" value="" />
       <property name="Format" value="Legacy - Extended - Standard" />
     </card>
@@ -1873,7 +1882,8 @@
       <property name="Split Difficulty" value="" />
       <property name="Split Rules" value="" />
       <property name="Split Keywords" value="" />
-      <property name="Format" value="Legacy - Extended - Standard" />
+      <property name="Format" value="Legacy
+ - Extended - Standard" />
     </card>
     <card id="73abf56a-9e13-439c-87d2-d97655fae1be" name="Aqua Barrier">
       <property name="Difficulty" value="2" />
