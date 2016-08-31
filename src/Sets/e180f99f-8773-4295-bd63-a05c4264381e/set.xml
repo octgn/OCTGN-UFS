@@ -563,8 +563,7 @@
       <property name="Vitality" value=""/>
       <property name="Keywords" value=""/>
       <property name="Split Difficulty" value=""/>
-      <property name="Split
- Rules" value=""/>
+      <property name="Split Rules" value=""/>
       <property name="Split Keywords" value=""/>
       <property name="Format" value="Legacy - Extended - Standard"/>
     </card>
@@ -1141,8 +1140,7 @@
       <property name="CardText" value="R Remove: After an attack is played, it gets Flash. " />
       <property name="Resources" value="Air All Water" />
       <property name="Block Modifier" value="" />
-      <property name="Block
- Zone" value="" />
+      <property name="Block Zone" value="" />
       <property name="Speed" value="" />
       <property name="Attack Zone" value="" />
       <property name="Damage" value="" />

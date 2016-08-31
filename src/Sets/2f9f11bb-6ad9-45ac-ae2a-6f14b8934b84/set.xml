@@ -570,8 +570,7 @@
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="" />
 			<property name="Split Difficulty" value="" />
-			<property name="Split
- Rules" value="" />
+			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
@@ -1903,8 +1902,7 @@
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="Weapon - Reversal" />
 			<property name="Split Difficulty" value="" />
-			<property name="Split
- Rules" value="" />
+			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Extended - Standard" />
 			<property name="Banned" value="" />
@@ -4176,8 +4174,7 @@
 			<property name="Gender" value="" />
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="Powerful: 1 - Combo (Ranged)" />
-			<property name="Split
- Difficulty" value="" />
+			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Extended - Standard" />
