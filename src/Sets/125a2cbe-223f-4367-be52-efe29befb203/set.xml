@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set name="Megaman - Rise of Masters" id="125a2cbe-223f-4367-be52-efe29befb203" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
 	<cards>
 		<card id="e8f09dd2-3466-4738-93ee-072f25b931dc" name="Air Man">
@@ -2385,7 +2385,7 @@
 			<property name="Difficulty" value="5" />
 			<property name="Rarity" value="Ultra Rare" />
 			<property name="Control" value="3" />
-			<property name="Type" value="Action" />
+			<property name="Type" value="Attack" />
 			<property name="CardText" value="E: If this is your second attack this turn, add it to the top of your deck after it resolves.  E: If this is your second attack this turn, add it to the top of your deck during the End Phase." />
 			<property name="Resources" value="All Evil Life" />
 			<property name="Block Modifier" value="1" />
