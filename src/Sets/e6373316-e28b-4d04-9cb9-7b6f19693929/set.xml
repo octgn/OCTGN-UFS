@@ -962,5 +962,65 @@
       <property name="Split Keywords" value="" />
       <property name="Format" value="Legacy - Extended - Standard" />
     </card>
+	<card id="9ccd27f2-50b7-403b-8a47-d1d7aba2db3a" name="Kaden***">
+      <property name="Difficulty" value="6" />
+      <property name="Rarity" value="P" />
+      <property name="Control" value="6" />
+      <property name="Type" value="Character" />
+      <property name="CardText" value="First E [Once per turn] (X+): If your non-throw attack is completely blocked, your opponent loses X vitality. X equals this attack's printed damage. R Commit: After your opponent plays an attack, reduce its speed to 0. If you block that attack, add the card you blocked with to your hand. " />
+      <property name="Resources" value="Death Earth Void" />
+      <property name="Block Modifier" value="0" />
+      <property name="Block Zone" value="Mid" />
+      <property name="Speed" value="" />
+      <property name="Attack Zone" value="" />
+      <property name="Damage" value="" />
+      <property name="Hand Size" value="5" />
+      <property name="Vitality" value="34" />
+      <property name="Keywords" value="" />
+      <property name="Split Difficulty" value="" />
+      <property name="Split Rules" value="" />
+      <property name="Split Keywords" value="" />
+      <property name="Format" value="Legacy - Extended - Standard" />
+    </card>
+	<card id="62cf7fa7-54eb-4bfc-be31-5040330ce115" name="Pyron">
+      <property name="Difficulty" value="6" />
+      <property name="Rarity" value="P" />
+      <property name="Control" value="6" />
+      <property name="Type" value="Character" />
+      <property name="CardText" value="R Destroy 1 foundation: After you make a check, it gets +2. E Commit 2 foundations: If your attack is not blocked, your opponent loses 5 vitality. " />
+      <property name="Resources" value="Evil Fire Void" />
+      <property name="Block Modifier" value="0" />
+      <property name="Block Zone" value="Mid" />
+      <property name="Speed" value="" />
+      <property name="Attack Zone" value="" />
+      <property name="Damage" value="" />
+      <property name="Hand Size" value="6" />
+      <property name="Vitality" value="26" />
+      <property name="Keywords" value="" />
+      <property name="Split Difficulty" value="" />
+      <property name="Split Rules" value="" />
+      <property name="Split Keywords" value="" />
+      <property name="Format" value="Legacy - Extended - Standard" />
+    </card>
+	<card id="fa09ee21-f309-4c8c-be9d-981dda854e44" name="Ether's Influence">
+      <property name="Difficulty" value="0" />
+      <property name="Rarity" value="P" />
+      <property name="Control" value="5" />
+      <property name="Type" value="Action" />
+      <property name="CardText" value="E Remove, commit 2 foundations: Add the top card of your opponent's deck to their card pool face down. E Destroy 2 committed foundations: Add this card to your staging area face down. You may shuffle up to 3 cards from your discard pile into your deck. " />
+      <property name="Resources" value="Chaos Earth Water" />
+      <property name="Block Modifier" value="2" />
+      <property name="Block Zone" value="Mid" />
+      <property name="Speed" value="" />
+      <property name="Attack Zone" value="" />
+      <property name="Damage" value="" />
+      <property name="Hand Size" value="" />
+      <property name="Vitality" value="" />
+      <property name="Keywords" value="" />
+      <property name="Split Difficulty" value="" />
+      <property name="Split Rules" value="" />
+      <property name="Split Keywords" value="" />
+      <property name="Format" value="Legacy - Extended - Standard" />
+    </card>
   </cards>
 </set>
