@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set name="King of Fighters XIII: NeoMax" id="41e9aff1-7dbb-4c5f-b03f-79ca8662c546" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
 	<cards>
 		<card id="3be6ffdb-0b71-4248-8ed3-953d75147b17" name="Robert">
@@ -2802,6 +2802,32 @@
 			<property name="Gender" value="" />
 			<property name="Blood Type" value="" />
 			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Banned" value="" />
+		</card>
+			<card id="be95a452-d5a5-4ff1-a172-6e3ae5f5fb9d" name="NeoMax">
+			<property name="Set Code" value="" />
+			<property name="Card Number" value="" />
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="Promo" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="E Commit: This attack gets +5 damage and +5 speed, or -5 damage and -5 speed (your choice). Only playable if 10 or more cards have been played or added to card pools this turn.R Destroy this asset: After your opponent plays an ability that would reduce the speed of your King of Fighters XIII attack, cancel its effects. " />
+			<property name="Errata" value="" />
+			<property name="Resources" value="Air Death Good Life" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Gender" value="" />
+			<property name="Blood Type" value="" />
+			<property name="Keywords" value="Unique" />
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
