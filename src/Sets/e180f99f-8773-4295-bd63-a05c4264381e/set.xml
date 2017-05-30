@@ -469,7 +469,7 @@
       <property name="Control" value="3"/>
       <property name="Type" value="Attack"/>
       <property name="CardText" value="fire E: This attack gets Stun: 2. water E: If the speed and damage of this attack are both greater than their printed values, draw 2 cards."/>
-      <property name="Resources" value="All Earth Fire"/>
+      <property name="Resources" value="Air Earth Fire"/>
       <property name="Block Modifier" value="3"/>
       <property name="Block Zone" value="Mid"/>
       <property name="Speed" value="5"/>
