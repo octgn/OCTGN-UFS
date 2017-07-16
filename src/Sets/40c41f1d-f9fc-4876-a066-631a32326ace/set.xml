@@ -601,7 +601,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 
-		// Cammy Ultra Rare
 		<card id="566b13cb-3612-4f7c-9d0a-9bdc88c0e93b" name="Cammy">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="UR" />
@@ -623,7 +622,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 
-		// Cannon Spike
 		<card id="e3833541-dc3c-4414-be84-14449a9aab11" name="Cannon Spike">
 			<property name="Difficulty" value="4" />
 			<property name="Rarity" value="C" />
@@ -645,7 +643,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 
-		// Cannon Strike
 		<card id="872c9071-1b06-413f-bdfd-e1fac059ef86" name="Cannon Strike">
 			<property name="Difficulty" value="4" />
 			<property name="Rarity" value="UC" />
@@ -667,7 +664,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 		
-		// Gyro Drive Smasher
 		<card id="f2ce896b-2434-4e19-a032-62252fe5d4ea" name="Gyro Drive Smasher">
 			<property name="Difficulty" value="5" />
 			<property name="Rarity" value="UR" />
@@ -689,7 +685,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 		
-		// Spiral Arrow
 		<card id="7bbbf9c2-5cd0-4992-ae6b-294d024ad911" name="Spiral Arrow">
 			<property name="Difficulty" value="5" />
 			<property name="Rarity" value="R" />
@@ -711,7 +706,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 		
-		// Beginning Mission
 		<card id="67fbcbca-d7a8-4986-9ac3-263e91408491" name="Beginning Mission">
 			<property name="Difficulty" value="1" />
 			<property name="Rarity" value="C" />
@@ -733,7 +727,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 		
-		// Delta Blue Team Leader
 		<card id="fca77cd5-8600-40d1-a62b-5b33434deb6a" name="Delta Blue Team Leader">
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="R" />
@@ -755,7 +748,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 		
-		// Mutual Contempt
 		<card id="70e41cca-11c0-4210-95ed-47f163a361c3" name="Mutual Contempt">
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="UC" />
@@ -777,7 +769,6 @@
 			<property name="Format" value="Standard ? Extended ? Legacy" />
 		</card>
 
-		// Rescue Mission
 		<card id="99f29a1c-f029-4bec-90e2-1271e3abcdc9" name="Rescue Mission">
 			<property name="Difficulty" value="3" />
 			<property name="Rarity" value="R" />
