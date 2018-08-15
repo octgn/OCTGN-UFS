@@ -67,7 +67,7 @@
 		<cardaction menu="Attach to target" default="False" execute="attach"/>
 	</table>
 	<player summary="{#Life} / {#Hand}">
-		<hand name="Hand" visibility="me" ordered="False" width="63" height="88" shortcut="ctrl+H" icon="groups/hand.png">
+		<hand name="Hand" visibility="me" ordered="False" shortcut="ctrl+H" icon="groups/hand.png">
 			<cardaction menu="Play Card" default="True" shortcut="ctrl+Q" execute="play" />
 			<cardaction menu="Play Block" default="False" shortcut="ctrl+B" execute="block" />
 			<cardaction menu="Discard Card" default="False" shortcut="del" execute="discard" />
@@ -77,7 +77,7 @@
 			<groupaction menu="Mulligan" default="False" shortcut="ctrl+M" execute="mulligan" />
 			<groupaction menu="Random Discard" default="False" execute="randomDiscard" />
 		</hand>
-		<group name="Deck" visibility="none" ordered="False" width="63" height="88" shortcut="ctrl+I" icon="groups/library.png" collapsed="False">
+		<group name="Deck" visibility="none" ordered="False" shortcut="ctrl+I" icon="groups/library.png" collapsed="False">
 			<groupaction menu="Draw" default="False" shortcut="ctrl+D" execute="draw" />
 			<groupaction menu="Draw X Cards" default="False" shortcut="ctrl+shift+D" execute="drawMany" />
 			<groupaction menu="Mill X Cards" default="False" execute="mill" />
@@ -90,21 +90,21 @@
 			<cardaction menu="Play Top Card" default="False" execute="play" />
 			<groupaction menu="Reveal/Hide Top Card" default="False" shortcut="ctrl+shift+R" execute="revealtopDeck" />
 		</group>
-		<group name="Discard" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/graveyard.png" collapsed="False">
+		<group name="Discard" visibility="all" ordered="False" shortcut="del" icon="groups/graveyard.png" collapsed="False">
 			<groupaction menu="Shuffle Discard Pile into Deck" default="False" execute="shuffleIntoDeck" />
 			<cardaction menu="Remove Top Card From the Game" default="False" shortcut="ctrl+E" execute="rfg" />
 			<cardaction menu="Move Top Card to Hand (reveal)" default="False" shortcut="ctrl+H" execute="tohand" />
 			<cardaction menu="Play Top Card" default="True" execute="play" />
 			<cardaction menu="Return Top Card to Deck" default="False" shortcut="ctrl+Y" execute="todeck" />
 		</group>
-		<group name="Removed From Game Zone" visibility="all" ordered="False" width="63" height="88" shortcut="ctrl+E" icon="groups/removed.png" collapsed="True">
+		<group name="Removed From Game Zone" visibility="all" ordered="False" shortcut="ctrl+E" icon="groups/removed.png" collapsed="True">
 			<groupaction menu="Move Removed from Game Cards to Library" default="False" execute="moveIntoDeck" />
 			<cardaction menu="Move Top Card to Hand (reveal)" default="False" shortcut="ctrl+H" execute="tohand" />
 			<cardaction menu="Play Top Card" default="True" execute="play" />
 			<cardaction menu="Discard Top Card" default="False" shortcut="del" execute="discard" />
 			<cardaction menu="Return Top Card to Library" default="False" shortcut="ctrl+Y" execute="todeck" />
 		</group>
-		<group name="Sideboard" visibility="me" ordered="False" width="63" height="88" icon="groups/sideboard.png" collapsed="True" />
+		<group name="Sideboard" visibility="me" ordered="False" icon="groups/sideboard.png" collapsed="True" />
 		<counter name="Life" default="20" reset="False" icon="counters/life.png" />
 	</player>
 	<deck>
