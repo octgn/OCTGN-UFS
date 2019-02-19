@@ -447,7 +447,7 @@
 			<property name="Control" value="6" />
 			<property name="Type" value="Character" />
 			<property name="CardText" value="R: After you are dealt damage, draw 1 card.&#10;E Remove the top 8 cards of your deck from the game: Your attack gets +2 damage and +2 speed." />
-			<property name="Resources" value="R: After you are dealt damage, draw 1 card.&#10;E Remove the top 8 cards of your deck from the game: Your attack gets +2 damage and +2 speed." />
+			<property name="Resources" value="Evil Fire Life" />
 			<property name="Block Modifier" value="0" />
 			<property name="Block Zone" value="Mid" />
 			<property name="Speed" value="" />
