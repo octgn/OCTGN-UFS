@@ -201,7 +201,7 @@
 	<property name="Split Keywords" value="" />
 	<property name="Format" value="Legacy - Extended - Standard" />
 </card>
-<card id="f94656ba-93ae-4c88-8921-8dc85a5e400c" name="B&#x000E6;lkhor*">
+<card id="f94656ba-93ae-4c88-8921-8dc85a5e400c" name="Baelkhor*">
 	<property name="Difficulty" value="6" />
 	<property name="Rarity" value="UC" />
 	<property name="Control" value="6" />
@@ -221,7 +221,7 @@
 	<property name="Split Keywords" value="" />
 	<property name="Format" value="Legacy - Extended - Standard" />
 </card>
-<card id="b986fa96-fa79-4f3e-a9f8-43a8cf3ce088" name="B&#x000E6;lkhor's Trophy Room">
+<card id="b986fa96-fa79-4f3e-a9f8-43a8cf3ce088" name="Baelkhor's Trophy Room">
 	<property name="Difficulty" value="4" />
 	<property name="Rarity" value="UR" />
 	<property name="Control" value="4" />
