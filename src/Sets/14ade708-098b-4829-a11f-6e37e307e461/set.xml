@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set name="Cowboy Bebop" id="14ade708-098b-4829-a11f-6e37e307e461" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
   
   	<cards>
@@ -1152,7 +1152,7 @@
         <property name="Type" value="Foundation"/>
         <property name="Resources" value="Earth Fire Good"/>
         <property name="Difficulty" value="2"/>
-        <property name="Control" value="5"/>
+        <property name="Control" value="4"/>
         <property name="Block Modifier" value="3"/>
         <property name="Block Zone" value="High"/>
         <property name="Speed" value=""/>
