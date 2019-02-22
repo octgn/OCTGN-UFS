@@ -631,8 +631,8 @@
 			<property name="Block Modifier" value="1" />
 			<property name="Block Zone" value="Mid" />
 			<property name="Speed" value="4" />
-			<property name="Attack Zone" value="8" />
-			<property name="Damage" value="" />
+			<property name="Attack Zone" value="Mid" />
+			<property name="Damage" value="8" />
 			<property name="Hand Size" value="" />
 			<property name="Vitality" value="" />
 			<property name="Keywords" value="Fury Punch Combo(Foundation)" />
@@ -666,7 +666,7 @@
 			<property name="Rarity" value="UC" />
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
-			<property name="CardText" value="After this card is committed due to a Stun ability, ready 1 of your other foundations" />
+			<property name="CardText" value="After this card is committed due to a Stun ability, ready 1 of your other foundations.  E [Card Pool]: Your attack gets +2 damage. You may add this card to your staging area face down committed." />
 			<property name="Resources" value="Air All Good" />
 			<property name="Block Modifier" value="3" />
 			<property name="Block Zone" value="Mid" />
@@ -686,7 +686,7 @@
 			<property name="Rarity" value="C" />
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
-			<property name="CardText" value="" />
+			<property name="CardText" value="E [Card Pool]: This attack gets +1 or -1 damage. If this attack has Fury, you may add this card to your staging area face down committed." />
 			<property name="Resources" value="Air All Good" />
 			<property name="Block Modifier" value="2" />
 			<property name="Block Zone" value="High" />
@@ -705,8 +705,8 @@
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="R" />
 			<property name="Control" value="4" />
-			<property name="Type" value="After your opponent's Combat Phase begins, ready this foundation.  R [Twice per turn]: After this foundation is readied or committed, ready 1 other foundation that has not been readied this Combat Phase. Playable while committed." />
-			<property name="CardText" value="" />
+			<property name="Type" value="Foundation" />
+			<property name="CardText" value="After your opponent's Combat Phase begins, ready this foundation.  R [Twice per turn]: After this foundation is readied or committed, ready 1 other foundation that has not been readied this Combat Phase. Playable while committed." />
 			<property name="Resources" value="Air All Good" />
 			<property name="Block Modifier" value="" />
 			<property name="Block Zone" value="" />
@@ -1481,7 +1481,7 @@
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Eternal - Standard - Turbo" />
 		</card>
-		<card id="486119c4-121d-44d1-b73a-b3c19b01623e" name="Rekki-Maru and Mekki-Maru">
+		<card id="486119c4-121d-44d1-b73a-b3c19b01623e" name="Rekki-Maru &amp; Mekki-Maru">
 			<property name="Difficulty" value="1" />
 			<property name="Rarity" value="R" />
 			<property name="Control" value="5" />
@@ -1841,7 +1841,7 @@
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Eternal - Standard - Turbo" />
 		</card>
-		<card id="d922d0de-ea5b-475b-98c0-ea30ed902d2b" name="Manji Sword and Fu-Ma Blade">
+		<card id="d922d0de-ea5b-475b-98c0-ea30ed902d2b" name="Manji Sword &amp; Fu-Ma Blade">
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="R" />
 			<property name="Control" value="6" />
@@ -1865,7 +1865,7 @@
 			<property name="Difficulty" value="4" />
 			<property name="Rarity" value="C" />
 			<property name="Control" value="3" />
-			<property name="Type" value="attack" />
+			<property name="Type" value="Attack" />
 			<property name="CardText" value="Combo E: This attack gets +1 speed and +1 damage for each Weapon card in your card pool.  [All] E: If your opponent is at Desperation, draw 1 card." />
 			<property name="Resources" value="All Chaos Death" />
 			<property name="Block Modifier" value="2" />
