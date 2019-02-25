@@ -1354,7 +1354,7 @@
 			<property name="Control" value="1" />
 			<property name="Type" value="Attack" />
 			<property name="CardText" value="While this card is in your card pool, your attacks gain Safe.  Desperation R[Hand] Add this card to your card pool: After your opponent plays an attack, discard it and play this attack." />
-			<property name="Resources" value="Death Evil Goood" />
+			<property name="Resources" value="Death Evil Good" />
 			<property name="Block Modifier" value="1" />
 			<property name="Block Zone" value="Mid" />
 			<property name="Speed" value="5" />
@@ -1374,7 +1374,7 @@
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="E Destroy: Your opponent's next attack gets Flash." />
-			<property name="Resources" value="Death Evil Goood" />
+			<property name="Resources" value="Death Evil Good" />
 			<property name="Block Modifier" value="" />
 			<property name="Block Zone" value="" />
 			<property name="Speed" value="" />
@@ -1394,7 +1394,7 @@
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="E[Once per turn] Lose 1 vitality: Your opponent's next check to play an attack card this turn gets -1.  First F: Your opponent reveals 1 random card from their hand." />
-			<property name="Resources" value="Death Evil Goood" />
+			<property name="Resources" value="Death Evil Good" />
 			<property name="Block Modifier" value="3" />
 			<property name="Block Zone" value="Mid" />
 			<property name="Speed" value="" />
@@ -1414,7 +1414,7 @@
 			<property name="Control" value="5" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="E Flip, lose 3 vitality: Draw 1 card.  Desperation E: Look at the top card of your opponent's deck." />
-			<property name="Resources" value="Death Evil Goood" />
+			<property name="Resources" value="Death Evil Good" />
 			<property name="Block Modifier" value="3" />
 			<property name="Block Zone" value="High" />
 			<property name="Speed" value="" />
@@ -1434,7 +1434,7 @@
 			<property name="Control" value="4" />
 			<property name="Type" value="Foundation" />
 			<property name="CardText" value="E Discard 1 momentum: Your opponent's block modifier to block this attack gets +2.  R Flip: After your opponent plays a card, they lose vitality equal to the combined keyword ratings printed on that card." />
-			<property name="Resources" value="Death Evil Goood" />
+			<property name="Resources" value="Death Evil Good" />
 			<property name="Block Modifier" value="3" />
 			<property name="Block Zone" value="Low" />
 			<property name="Speed" value="" />

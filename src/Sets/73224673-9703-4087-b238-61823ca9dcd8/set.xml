@@ -2,7 +2,7 @@
 <set name="Platinum" id="73224673-9703-4087-b238-61823ca9dcd8" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
   	
 <cards>
-<card id="86401d57-1bfe-4587-bd81-4d0d231b58db" name="Bubble Man">
+<card id="86401d57-1bfe-4587-bd81-4d0d231b58db" name="Bubble Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -23,7 +23,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="35619468-f7a1-4ca8-99c2-654ecf8dd022" name="Dimitri">
+<card id="35619468-f7a1-4ca8-99c2-654ecf8dd022" name="Demitri**">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -44,7 +44,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="9fbd766c-166e-4295-be0a-d08332f5fe09" name="Drill Man">
+<card id="9fbd766c-166e-4295-be0a-d08332f5fe09" name="Drill Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -65,7 +65,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="b0363099-a4b1-4118-9a23-8ee7f4534771" name="Gemini Man">
+<card id="b0363099-a4b1-4118-9a23-8ee7f4534771" name="Gemini Man**">
     <property name="Difficulty" value="4" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -86,7 +86,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="d0ed81a9-d7aa-4432-a6f1-fa073e41f2d0" name="Huitzil">
+<card id="d0ed81a9-d7aa-4432-a6f1-fa073e41f2d0" name="Huitzil**">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -107,7 +107,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="cae6f963-68ae-4d2a-964b-d4d464bce0c8" name="Napalm Man">
+<card id="cae6f963-68ae-4d2a-964b-d4d464bce0c8" name="Napalm Man**">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -128,7 +128,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="1b0342a3-d90a-4f90-9bc2-e48e10bfcff5" name="Plant Man">
+<card id="1b0342a3-d90a-4f90-9bc2-e48e10bfcff5" name="Plant Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -149,7 +149,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="1acb275c-9968-44a6-b821-409236628965" name="Shadow Man">
+<card id="1acb275c-9968-44a6-b821-409236628965" name="Shadow Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -170,7 +170,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="57457a4f-c352-4a2b-819e-f47b5fdd3114" name="Sheep Man">
+<card id="57457a4f-c352-4a2b-819e-f47b5fdd3114" name="Sheep Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -191,7 +191,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="908101c0-56ab-48d0-9c1b-47a776ff7b0f" name="Skull Man">
+<card id="908101c0-56ab-48d0-9c1b-47a776ff7b0f" name="Skull Man**">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -212,7 +212,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="770e5c46-ef6b-45ad-b3b4-5f1195cc426c" name="Splash Woman">
+<card id="770e5c46-ef6b-45ad-b3b4-5f1195cc426c" name="Splash Woman*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -233,7 +233,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="b5c945a0-5db4-41c2-a3ae-c468481f73ed" name="Stone Man">
+<card id="b5c945a0-5db4-41c2-a3ae-c468481f73ed" name="Stone Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -254,7 +254,7 @@
         <property name="Format" value="Standard - Extended - Legacy" />
     </card>
 
-<card id="b0866c66-4134-4415-b3cd-3b434d6dd49a" name="Wood Man">
+<card id="b0866c66-4134-4415-b3cd-3b434d6dd49a" name="Wood Man*">
     <property name="Difficulty" value="6" />
     <property name="Rarity"     value="Common" />
     <property name="Control"    value="6" />
@@ -279,7 +279,7 @@
     <property name="Difficulty" value="1" />
     <property name="Rarity"     value="Rare" />
     <property name="Control"    value="5" />
-    <property name="Type"       value="Character" />
+    <property name="Type"       value="Action" />
     <property name="CardText"   value="Combo E: Your next Weapon attack this turn gets -2 difficulty and +2 damage. Draw 1 card and discard this card from your card pool.  Bishamon F Remove: If you have 2 or more assets, add the top 2 cards of your deck to your staging area face down." />
     <property name="Resources"  value="All - Order - Void" />
     <property name="Block Modifier" value="2" />
