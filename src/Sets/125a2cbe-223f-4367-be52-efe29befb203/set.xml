@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set name="Megaman - Rise of Masters" id="125a2cbe-223f-4367-be52-efe29befb203" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
+<set name="Mega Man: Rise of the Masters" id="125a2cbe-223f-4367-be52-efe29befb203" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
 	<cards>
-		<card id="e8f09dd2-3466-4738-93ee-072f25b931dc" name="Air Man">
+		<card id="e8f09dd2-3466-4738-93ee-072f25b931dc" name="·Air Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="6" />
@@ -19,7 +19,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="84de6e2a-9cd9-46cb-9b14-2e5a3c7e082f" name="Air Tikki">
 			<property name="Difficulty" value="2" />
@@ -39,7 +39,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="3bb712a0-fd9a-42d9-9ef3-36cc9183a6dc" name="Air Shooter">
 			<property name="Difficulty" value="5" />
@@ -59,7 +59,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="3c15f5f9-6abe-4cd6-968e-4b13400dccaf" name="Air Slam">
 			<property name="Difficulty" value="4" />
@@ -79,7 +79,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e55fe695-2ab2-44cc-8bf3-9ea79393073b" name="Air Typhoon">
 			<property name="Difficulty" value="5" />
@@ -99,7 +99,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="eb8713bd-dd03-437f-96c0-6555e070a90d" name="Dust in the Wind">
 			<property name="Difficulty" value="2" />
@@ -119,7 +119,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="fde1a680-d23c-4717-875b-aabf6e5e2cec" name="Frightening Appearance">
 			<property name="Difficulty" value="1" />
@@ -139,7 +139,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="d33aa2a3-344a-498b-9e0e-04d1ef5257d8" name="Hatred of Autumn">
 			<property name="Difficulty" value="2" />
@@ -159,7 +159,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e159e818-e1a3-4015-af86-adb66213009f" name="Taosenai">
 			<property name="Difficulty" value="3" />
@@ -179,9 +179,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="0a393800-8a2e-4fbf-8928-79a31a8879cc" name="Crash Man">
+		<card id="0a393800-8a2e-4fbf-8928-79a31a8879cc" name="·Crash Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Rare" />
 			<property name="Control" value="6" />
@@ -199,7 +199,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="832d8149-3f4d-48fb-8fb2-7a8b517846a6" name="Blasting Through">
 			<property name="Difficulty" value="3" />
@@ -219,7 +219,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="bf9aee0d-3662-4bd5-9444-61957f78a062" name="Crash Bomber">
 			<property name="Difficulty" value="4" />
@@ -239,7 +239,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="8d387336-a58b-4c54-8d1e-9b2bfdb29c1e" name="Crash Slam">
 			<property name="Difficulty" value="4" />
@@ -259,7 +259,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="6d2c4aec-96a5-476a-b4ce-2b95e06521ad" name="Danger Zone">
 			<property name="Difficulty" value="6" />
@@ -279,7 +279,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="7af51838-3b7f-4bb6-82ab-fc3363ff1954" name="Delayed Detonation">
 			<property name="Difficulty" value="2" />
@@ -299,7 +299,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="2094c12f-42fb-4abc-a9c1-c6d663058df3" name="Demolitions Expert">
 			<property name="Difficulty" value="1" />
@@ -319,7 +319,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="23b4c84b-77ba-460a-841a-5edeeb9769ff" name="Improved Design">
 			<property name="Difficulty" value="2" />
@@ -339,9 +339,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="b7b7ef01-ef57-4646-93d8-f43198234249" name="Short Fuse**">
+		<card id="b7b7ef01-ef57-4646-93d8-f43198234249" name="Short Fuse··">
 			<property name="Difficulty" value="1" />
 			<property name="Rarity" value="Rare" />
 			<property name="Control" value="5" />
@@ -359,9 +359,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="ac3625c7-d3d2-4130-b549-5f08b9358d12" name="Dr. Cossack">
+		<card id="ac3625c7-d3d2-4130-b549-5f08b9358d12" name="·Dr. Cossack·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Ultra Rare" />
 			<property name="Control" value="6" />
@@ -379,7 +379,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="d140c5ab-6f68-46eb-a3b4-a591e5765e71" name="Cossack Citadel">
 			<property name="Difficulty" value="2" />
@@ -399,7 +399,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="a0a1d376-e160-4da7-af11-a07fb037f8c2" name="Cossack Buster">
 			<property name="Difficulty" value="4" />
@@ -419,7 +419,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="10bb600a-3c9a-456c-b2f2-7689936fe79c" name="Cossack Catcher">
 			<property name="Difficulty" value="5" />
@@ -439,7 +439,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="b71e8517-d830-4a7e-a4ae-9190d515ee29" name="Cossack Slam">
 			<property name="Difficulty" value="4" />
@@ -459,7 +459,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="47464183-e82e-47ad-b1ec-52f8b8339002" name="A New Ally">
 			<property name="Difficulty" value="2" />
@@ -479,9 +479,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="3c10bc36-4ce3-42bf-8d08-26584521222d" name="Fatherly Love**">
+		<card id="3c10bc36-4ce3-42bf-8d08-26584521222d" name="Fatherly Love··">
 			<property name="Difficulty" value="3" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="5" />
@@ -499,7 +499,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="9280c11b-54d4-4411-9dc0-7c45537dec16" name="Siberian Scientist">
 			<property name="Difficulty" value="3" />
@@ -519,7 +519,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="39e41eea-5bc4-41e8-b8a5-efb5d1c4c757" name="Trusted Colleague">
 			<property name="Difficulty" value="2" />
@@ -539,9 +539,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="1376c756-4702-41df-9be2-e1a487eb3351" name="Dr. Wily">
+		<card id="1376c756-4702-41df-9be2-e1a487eb3351" name="·Dr. Wily·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Starter Exclusive" />
 			<property name="Control" value="6" />
@@ -559,7 +559,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="53054a90-3373-43d8-b5c7-afbed6519b54" name="Self Destruct!">
 			<property name="Difficulty" value="6" />
@@ -579,7 +579,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="72a91614-f345-4023-a70d-ec4359ac0a24" name="Skull Fortress">
 			<property name="Difficulty" value="3" />
@@ -599,7 +599,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e6d506c5-2f6a-4275-a33c-f2aa5bd27169" name="Teleporting Hatches">
 			<property name="Difficulty" value="1" />
@@ -619,7 +619,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ac36d8ee-e068-414f-8c91-23d96277c0dd" name="Flying Fortress Buster">
 			<property name="Difficulty" value="6" />
@@ -639,7 +639,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="f4cc6acd-73fd-458c-984b-6cf8bf9a978e" name="Gamma Crush">
 			<property name="Difficulty" value="7" />
@@ -659,7 +659,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="5eba9b69-b44d-425b-af87-c266638e3bb0" name="Guts Cannon">
 			<property name="Difficulty" value="4" />
@@ -679,7 +679,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e7fd576d-5b87-40fa-86fd-8647e5b5847c" name="Holographic Buster">
 			<property name="Difficulty" value="5" />
@@ -699,7 +699,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="84c05e9a-7d7c-4afc-97e6-bc04ec44820b" name="Mecha Dragon Blast">
 			<property name="Difficulty" value="3" />
@@ -719,7 +719,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ad32f88d-4895-4274-b8a1-57d9b6b789fb" name="MM:\Copy">
 			<property name="Difficulty" value="4" />
@@ -739,7 +739,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="cd499f6f-d34d-4492-95ae-6e26c35f96bc" name="Pinbot Strike">
 			<property name="Difficulty" value="4" />
@@ -759,7 +759,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="01f79037-e792-467c-923c-21dfce77356f" name="Cunning Puzzler">
 			<property name="Difficulty" value="2" />
@@ -779,7 +779,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e1e27981-5fb1-4e09-8194-1debe7e810df" name="Double Crosser">
 			<property name="Difficulty" value="0" />
@@ -799,7 +799,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="b5d962bd-0044-49ef-bf26-3e319eddb2ba" name="Driven by Hatred">
 			<property name="Difficulty" value="3" />
@@ -819,7 +819,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="5c6ef2fe-a27b-4d9e-8d4b-1e1541abb91f" name="Genius Architect">
 			<property name="Difficulty" value="2" />
@@ -839,7 +839,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="1d8b1da3-c565-4bfa-9efa-6268a9497ee7" name="Hidden in His Shadow">
 			<property name="Difficulty" value="1" />
@@ -859,7 +859,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="8ee296d0-8c20-4efa-914d-ef2da0586a2d" name="Master of Masters">
 			<property name="Difficulty" value="2" />
@@ -879,7 +879,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="7338e1c5-ff5d-40b1-aacd-964a17620734" name="Reformed Scientist">
 			<property name="Difficulty" value="1" />
@@ -899,9 +899,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="3d9f6c4f-9c8a-4c22-995c-dfdc24fe88f0" name="Gemini Man">
+		<card id="3d9f6c4f-9c8a-4c22-995c-dfdc24fe88f0" name="·Gemini Man· (Banned)">
 			<property name="Difficulty" value="3" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="6" />
@@ -919,7 +919,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy" />
 		</card>
 		<card id="2792891b-56e9-47a1-af10-c2d23192dfa6" name="Moon Base">
 			<property name="Difficulty" value="1" />
@@ -939,7 +939,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="c8f90bf6-9902-4f0d-a890-80c6a4cd1e39" name="Double Gemini Slam">
 			<property name="Difficulty" value="5" />
@@ -959,7 +959,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="0a30eda4-dd63-40f0-9f1c-36e795af626e" name="Gemini Beam">
 			<property name="Difficulty" value="5" />
@@ -979,7 +979,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="9ac70d0c-fcf7-47ef-a5a7-5d180939c2ea" name="Gemini Slam">
 			<property name="Difficulty" value="5" />
@@ -999,7 +999,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="a6290ac0-f8c8-4829-b052-5229ed200009" name="Narcissist">
 			<property name="Difficulty" value="2" />
@@ -1019,7 +1019,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="6d18adda-3bfb-4b5d-abb9-bc96fe52b938" name="Ophidiophobia">
 			<property name="Difficulty" value="2" />
@@ -1039,7 +1039,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="2099548a-6062-4774-80e1-1cc1e8792f96" name="Strength of Pollux">
 			<property name="Difficulty" value="3" />
@@ -1059,7 +1059,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ab9719e3-3002-417c-9775-e39602e376dc" name="Wisdom of Castor">
 			<property name="Difficulty" value="2" />
@@ -1079,9 +1079,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="4d3f748f-9d4d-40e4-9236-3407d349e4fc" name="Magnet Man">
+		<card id="4d3f748f-9d4d-40e4-9236-3407d349e4fc" name="·Magnet Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="6" />
@@ -1099,7 +1099,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e755149b-aded-4069-a35f-31ff59830385" name="Polar Warp">
 			<property name="Difficulty" value="2" />
@@ -1119,7 +1119,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="78426159-1780-4e7a-aafc-170e6974961f" name="Magnet Missile">
 			<property name="Difficulty" value="4" />
@@ -1139,7 +1139,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="deb00d99-d8a6-4ba4-8ba8-75a5a6e5485c" name="Magnet Slam">
 			<property name="Difficulty" value="4" />
@@ -1159,7 +1159,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="f78afc14-73ea-43e6-b0ed-9a16401c9269" name="Magnetic Pull">
 			<property name="Difficulty" value="3" />
@@ -1179,7 +1179,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="db66c79a-662d-425a-8d3a-d1dce2f4bb90" name="Don't Mess with Magnet Man">
 			<property name="Difficulty" value="2" />
@@ -1199,7 +1199,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="c77c55bb-c039-4bc2-8561-e79d1cc5d91d" name="Electromagnetic">
 			<property name="Difficulty" value="2" />
@@ -1219,7 +1219,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="aca061bd-15a0-44e1-a48d-51000e591d64" name="Fatal Attraction">
 			<property name="Difficulty" value="2" />
@@ -1239,9 +1239,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="e7b9776f-499c-4861-858c-e76465c7b8c5" name="Master of Magnetism">
+		<card id="e7b9776f-499c-4861-858c-e76465c7b8c5" name="Master of Magnetism (Banned)">
 			<property name="Difficulty" value="3" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="5" />
@@ -1259,9 +1259,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy" />
 		</card>
-		<card id="4a5d6baf-fb18-464c-8c4b-f3839ed1e12d" name="Mega Man**">
+		<card id="4a5d6baf-fb18-464c-8c4b-f3839ed1e12d" name="··Mega Man··">
 			<property name="Difficulty" value="5" />
 			<property name="Rarity" value="Starter Exclusive" />
 			<property name="Control" value="6" />
@@ -1279,7 +1279,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="4f03bf10-b46b-4924-ae75-e7373cef44fe" name="Mega Slide">
 			<property name="Difficulty" value="2" />
@@ -1299,7 +1299,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="1df8f263-b429-4a2f-b084-e311147fb9ca" name="E-Tank">
 			<property name="Difficulty" value="3" />
@@ -1319,7 +1319,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="0d1a5998-7556-4fbe-9700-28515dd6b815" name="Roll">
 			<property name="Difficulty" value="2" />
@@ -1339,7 +1339,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="b7cec7c0-8d97-4b3a-bdd5-aeb01f2f0fac" name="Atomic Fire">
 			<property name="Difficulty" value="4" />
@@ -1359,7 +1359,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="f7e5ac6e-2603-45d0-b5f4-e735d6fe553c" name="Dust Crusher">
 			<property name="Difficulty" value="4" />
@@ -1379,7 +1379,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="f5d05d22-8357-4466-bc6c-4d295c99fc73" name="Hard Knuckle">
 			<property name="Difficulty" value="5" />
@@ -1399,7 +1399,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="2ad5f00a-6a56-4a20-863a-43774b5daa90" name="Leaf Shield">
 			<property name="Difficulty" value="3" />
@@ -1419,7 +1419,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="15410f4e-f1a5-4af9-9bbe-f0bdd6e09903" name="Rain Flush">
 			<property name="Difficulty" value="5" />
@@ -1439,7 +1439,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e1589a10-050b-4667-a7eb-2f6ab62bd5fe" name="Time Stopper">
 			<property name="Difficulty" value="5" />
@@ -1459,7 +1459,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ff37ac76-89b9-4f90-b382-9e1fb343251f" name="Top Spin">
 			<property name="Difficulty" value="4" />
@@ -1479,7 +1479,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ee407b50-e6e2-49a1-929e-30b3d39df827" name="A Fighting Robot">
 			<property name="Difficulty" value="1" />
@@ -1499,7 +1499,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="c48bdcbb-bf6e-4223-abb3-ff6059151c1d" name="Copyright Dr. Light: 20XX">
 			<property name="Difficulty" value="1" />
@@ -1519,7 +1519,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="cee13e2f-1e6b-4e49-bf53-6fd99fc2627d" name="Gamma Destroyer">
 			<property name="Difficulty" value="3" />
@@ -1539,7 +1539,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ba017edb-4201-4adc-bdb4-3c40e2194ec9" name="Merciful">
 			<property name="Difficulty" value="0" />
@@ -1559,7 +1559,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="26383924-1b79-48da-896f-b0c3409b15c5" name="Neverending Battle">
 			<property name="Difficulty" value="2" />
@@ -1579,7 +1579,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="87df47af-fcde-4a48-9a3f-752a0c4f39b3" name="Sense of Justice">
 			<property name="Difficulty" value="2" />
@@ -1599,7 +1599,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="64d5e486-5927-4315-bd22-81c90600ad64" name="Weapons Upgrade">
 			<property name="Difficulty" value="2" />
@@ -1619,9 +1619,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="c75047e9-6a8e-4663-9c37-62a3767f3c6c" name="Metal Man">
+		<card id="c75047e9-6a8e-4663-9c37-62a3767f3c6c" name="·Metal Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="6" />
@@ -1639,7 +1639,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="1296a920-9e10-499c-846b-991a65fa5d75" name="Saw Blades">
 			<property name="Difficulty" value="4" />
@@ -1659,7 +1659,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="10f1d4e1-a0b2-478d-a6d3-4213553e019e" name="Metal Blade">
 			<property name="Difficulty" value="2" />
@@ -1679,7 +1679,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="871d139a-c69c-42fc-8bc2-060d5bd27f21" name="Metal Slam">
 			<property name="Difficulty" value="5" />
@@ -1699,7 +1699,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="b159677a-cf4a-427d-8976-9f93dfe956e1" name="Omnidirectional Blade Strike">
 			<property name="Difficulty" value="5" />
@@ -1719,7 +1719,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="44aaee46-c4bc-443c-892c-def24f1d64f0" name="Changing Directions">
 			<property name="Difficulty" value="2" />
@@ -1739,9 +1739,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="e7b485b7-cd0d-47f3-83cf-ff3cab0fdc98" name="Deforester">
+		<card id="e7b485b7-cd0d-47f3-83cf-ff3cab0fdc98" name="Deforester (Banned)">
 			<property name="Difficulty" value="2" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="5" />
@@ -1759,7 +1759,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy" />
 		</card>
 		<card id="d480b4e8-5528-4ba0-a961-1d817eb366c8" name="Design Flaws">
 			<property name="Difficulty" value="1" />
@@ -1779,7 +1779,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="a9948a9b-411f-4118-9e75-3457ba0955df" name="Mechanical Maniac">
 			<property name="Difficulty" value="2" />
@@ -1799,9 +1799,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="8392bdd8-7757-445c-9044-c4bc1f2b587c" name="Pharaoh Man">
+		<card id="8392bdd8-7757-445c-9044-c4bc1f2b587c" name="··Pharaoh Man··">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="6" />
@@ -1819,7 +1819,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="d099eb5b-3203-499d-bbc2-5083d667d79a" name="Egyptian Pyramid">
 			<property name="Difficulty" value="3" />
@@ -1839,7 +1839,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="43222119-769f-4a15-8919-c92cbdedc644" name="Pharaoh Shot">
 			<property name="Difficulty" value="4" />
@@ -1859,7 +1859,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="7d862415-5e5d-4578-b390-d01ee6d76ff1" name="Pharaoh Slam">
 			<property name="Difficulty" value="4" />
@@ -1879,7 +1879,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="a1520677-6d42-4cec-809f-d9d40dd6ac7b" name="Pharaoh Wave">
 			<property name="Difficulty" value="6" />
@@ -1899,7 +1899,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="c11ea124-002d-40f2-9612-3047d8b7931d" name="Charismatic Ruler">
 			<property name="Difficulty" value="2" />
@@ -1919,7 +1919,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="c1c09940-9811-4d1f-b699-b33dedb5210b" name="Fear of Women">
 			<property name="Difficulty" value="2" />
@@ -1939,7 +1939,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="6a5bf16b-660d-4e03-90f2-fbca7f6446d1" name="One Thousand Mummira">
 			<property name="Difficulty" value="3" />
@@ -1959,7 +1959,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="ff3487b6-d834-40ee-a100-ecd5d7fa28ae" name="Pyramid Explorer">
 			<property name="Difficulty" value="2" />
@@ -1979,9 +1979,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="bdddd3f6-d656-4f8b-8f8e-c338c47f132e" name="Proto Man**">
+		<card id="bdddd3f6-d656-4f8b-8f8e-c338c47f132e" name="··Proto Man··">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Ultra Rare" />
 			<property name="Control" value="6" />
@@ -1999,7 +1999,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="0e6c4788-fde4-4ea3-869d-d3b70cbc44b3" name="Ominous Whistle">
 			<property name="Difficulty" value="5" />
@@ -2019,7 +2019,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="95ffc87b-3b61-4b83-9e5d-5a65e815cd91" name="Proto Slam">
 			<property name="Difficulty" value="3" />
@@ -2039,9 +2039,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="7203f0a6-db71-4dc4-ba0d-ca709f353b9d" name="Shield Ram">
+		<card id="7203f0a6-db71-4dc4-ba0d-ca709f353b9d" name="Shield Ram (Banned)">
 			<property name="Difficulty" value="4" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="3" />
@@ -2059,7 +2059,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy" />
 		</card>
 		<card id="cf471854-e5b5-4c97-a9ee-de37d629c528" name="Turbo Proto Buster">
 			<property name="Difficulty" value="5" />
@@ -2079,7 +2079,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="071b6ab4-bb6e-473f-8703-b970aff35d0b" name="DLN 000">
 			<property name="Difficulty" value="1" />
@@ -2099,7 +2099,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="5edae2c2-a892-4890-8095-af3e4c3f99c9" name="Fighting for Wily">
 			<property name="Difficulty" value="2" />
@@ -2119,7 +2119,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="b14938b6-9a0f-4fd7-8c0f-33db1ef777e0" name="Repaying a Debt">
 			<property name="Difficulty" value="3" />
@@ -2139,7 +2139,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="5af59881-6080-4f23-a798-73ee73d19e98" name="Rescuer">
 			<property name="Difficulty" value="2" />
@@ -2159,9 +2159,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="7778351f-c144-4edc-8573-cdba8912de03" name="Quick Man">
+		<card id="7778351f-c144-4edc-8573-cdba8912de03" name="·Quick Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Rare" />
 			<property name="Control" value="6" />
@@ -2179,9 +2179,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="79451803-cec2-4ddb-9f3f-da3e30e663b4" name="Dodge">
+		<card id="79451803-cec2-4ddb-9f3f-da3e30e663b4" name="Dodge!">
 			<property name="Difficulty" value="5" />
 			<property name="Rarity" value="Rare" />
 			<property name="Control" value="4" />
@@ -2199,7 +2199,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="8b0bcb14-e90f-46e4-8591-0f70c7d57d2d" name="Quick Boomerang">
 			<property name="Difficulty" value="4" />
@@ -2219,7 +2219,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="9744a437-0577-4b2b-a158-183efb0c7aec" name="Quick Charge">
 			<property name="Difficulty" value="5" />
@@ -2239,7 +2239,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="454209c1-c12e-4a69-8880-f4b0733540e9" name="Quick Slam">
 			<property name="Difficulty" value="4" />
@@ -2259,7 +2259,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="69cb5806-8055-4c20-a3d5-98852646a29c" name="88 M.P.H.">
 			<property name="Difficulty" value="3" />
@@ -2279,7 +2279,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="03136140-2dc6-4696-94b7-a6c17f5d93dc" name="Always on the Move">
 			<property name="Difficulty" value="2" />
@@ -2299,7 +2299,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="84c8a02f-df19-488c-add9-8accfbcc747b" name="Built for Speed">
 			<property name="Difficulty" value="1" />
@@ -2319,7 +2319,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="12b2b25d-d687-4ca1-9d0e-e28b3fb81c63" name="Rivalry with Turbo Man">
 			<property name="Difficulty" value="2" />
@@ -2339,9 +2339,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="415a75ba-3802-428d-bacc-4ae2d96e1f6e" name="Ring Man">
+		<card id="415a75ba-3802-428d-bacc-4ae2d96e1f6e" name="·Ring Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Rare" />
 			<property name="Control" value="6" />
@@ -2359,7 +2359,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="a48bc33f-639c-43bb-9a33-c562e7440946" name="Whopper">
 			<property name="Difficulty" value="2" />
@@ -2379,7 +2379,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="60d486b4-73cc-4bd0-9ff6-02efa3386120" name="Aerial Ring Boomerang">
 			<property name="Difficulty" value="5" />
@@ -2399,7 +2399,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="6c145877-e6fc-45e0-b7cb-d79c378e4fcc" name="Ring Boomerang">
 			<property name="Difficulty" value="4" />
@@ -2419,7 +2419,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="caa1f7e2-f145-4ebf-abcc-a8a918254688" name="Ring Slam">
 			<property name="Difficulty" value="3" />
@@ -2439,7 +2439,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="53a7d7a1-ae99-4876-b8b3-e2c31311e1b6" name="Clever Strategist">
 			<property name="Difficulty" value="3" />
@@ -2459,7 +2459,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e7dbaa07-bd44-4aca-9e9c-2c579a2544c5" name="Egotistical">
 			<property name="Difficulty" value="1" />
@@ -2479,7 +2479,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="cd6447e9-ef23-4599-adeb-014392a7fe4f" name="Merciless Master">
 			<property name="Difficulty" value="2" />
@@ -2499,7 +2499,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e97b503b-d91d-4d00-9e8a-4572a8b5f259" name="Ring Toss Champion">
 			<property name="Difficulty" value="2" />
@@ -2519,9 +2519,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="077fa824-10a2-4f91-b303-d80df9e8b79a" name="Skull Man">
+		<card id="077fa824-10a2-4f91-b303-d80df9e8b79a" name="·Skull Man· (Banned)">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Uncommon" />
 			<property name="Control" value="6" />
@@ -2539,7 +2539,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy" />
 		</card>
 		<card id="a77e1a5f-b62d-495f-a8fa-05a85e43f2a1" name="Fortress of Bones">
 			<property name="Difficulty" value="3" />
@@ -2559,7 +2559,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="1721299d-e60e-41ff-be22-2cf234484457" name="Skull Barrier">
 			<property name="Difficulty" value="2" />
@@ -2579,7 +2579,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="191cdcc6-ea96-4023-8b76-c5bd60d87a41" name="Skull Buster">
 			<property name="Difficulty" value="4" />
@@ -2599,7 +2599,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="60faa9eb-fb2f-4474-93a5-c1dfe50f68de" name="Skull Slam">
 			<property name="Difficulty" value="3" />
@@ -2619,7 +2619,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="64478886-024d-4348-a8bc-f088559ba5a0" name="Balanced Fighter">
 			<property name="Difficulty" value="2" />
@@ -2639,7 +2639,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="78aace0e-4665-4c38-8884-82a9523746f5" name="Designed for Combat">
 			<property name="Difficulty" value="1" />
@@ -2659,7 +2659,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="562e27aa-32a8-4d8a-9900-d9c088d3763d" name="No Other Purpose">
 			<property name="Difficulty" value="3" />
@@ -2679,7 +2679,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="be346f95-7c8c-4f29-a4b6-019517e0a8d7" name="Reactive Style">
 			<property name="Difficulty" value="2" />
@@ -2699,9 +2699,9 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
-		<card id="db0ea01c-da5e-405d-a50c-f84a5995b3fd" name="Snake Man">
+		<card id="db0ea01c-da5e-405d-a50c-f84a5995b3fd" name="·Snake Man·">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="Ultra Rare" />
 			<property name="Control" value="6" />
@@ -2719,7 +2719,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e85cfdd9-96b1-4529-b8fa-0dbf190c9fc0" name="Corner Your Prey">
 			<property name="Difficulty" value="2" />
@@ -2739,7 +2739,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="95ecd5c7-2392-4c68-b960-15d517aebfe7" name="Crawling Strike">
 			<property name="Difficulty" value="4" />
@@ -2759,7 +2759,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="51db2bc3-0be5-47ff-9983-40954e0abd8d" name="Search Snake">
 			<property name="Difficulty" value="4" />
@@ -2779,7 +2779,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="242e2470-e43b-45d9-9bc9-a512118dd504" name="Snake Slam">
 			<property name="Difficulty" value="5" />
@@ -2799,7 +2799,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="918dae1f-42d6-4e9e-8253-76792a5e5d82" name="Intelligent and Shrewd">
 			<property name="Difficulty" value="1" />
@@ -2819,7 +2819,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="1d2ae01b-1593-4036-9b4d-c9686579d286" name="Slithering Serpent">
 			<property name="Difficulty" value="2" />
@@ -2839,7 +2839,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="c768ca13-f9ba-4416-989b-1181ab7f34b4" name="Surveyor">
 			<property name="Difficulty" value="3" />
@@ -2859,7 +2859,7 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
 		</card>
 		<card id="e645d3ac-8d6a-44fa-bb92-43417cc24419" name="Unrequited Friendship">
 			<property name="Difficulty" value="2" />
@@ -2879,7 +2879,187 @@
 			<property name="Split Difficulty" value="" />
 			<property name="Split Rules" value="" />
 			<property name="Split Keywords" value="" />
-			<property name="Format" value="Legacy - Extended - Standard" />
+			<property name="Format" value="Legacy - Eternal" />
+		</card>
+		<card id="20c4291c-f6d7-4a08-9a06-2d1d9864c6e8" name="Met">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity" value="P" />
+			<property name="Control" value="5" />
+			<property name="Type" value="Asset" />
+			<property name="CardText" value="E Discard 1 card: Change the zone of your mid attack to high. &#10; R Flip: After your high attack deals damage, your next ranged attack this turn gets -2 difficulty. &#10; F Add this card to your card pool face down: Your opponent's next attack this turn deals no damage." />
+			<property name="Resources" value="Good Earth Life" />
+			<property name="Block Modifier" value="2" />
+			<property name="Block Zone" value="Low" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="" />
+			<property name="Vitality" value="" />
+			<property name="Keywords" value="Ally Unique" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Eternal" />
+		</card>
+		<card id="b352f9df-fa19-4b6b-b1b1-a725b307a118" name="Sniper Joe">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="P" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="After you are dealt damage, ready this character. &#10; All block modifiers get +2. &#10; E Commit: If you attempt to block this attack, your block's modifier gets -5." />
+			<property name="Resources" value="Earth Good Order" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="7" />
+			<property name="Vitality" value="19" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Eternal" />
+		</card>
+		<card id="48f16da6-2c9b-4689-9024-32d2ca62de40" name="Yellow Devil">
+			<property name="Difficulty" value="6" />
+			<property name="Rarity" value="P" />
+			<property name="Control" value="6" />
+			<property name="Type" value="Character" />
+			<property name="CardText" value="R Commit: After you commit 1 or more foundations to pass the check to play an attack, ready them. &#10; E (4+): Your attack gets +2 damage and Stun: X. X equals the number of foundations in your card pool. Playable while committed." />
+			<property name="Resources" value="All Chaos Life" />
+			<property name="Block Modifier" value="0" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed" value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage" value="" />
+			<property name="Hand Size" value="6" />
+			<property name="Vitality" value="27" />
+			<property name="Keywords" value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Eternal" />
+		</card>
+		<card id="2275cb9a-89d5-41ca-819a-76c6c5bb6c6f" name="Turbo Charge">
+      <property name="Difficulty" value="4" />
+      <property name="Rarity" value="P" />
+      <property name="Control" value="1" />
+      <property name="Type" value="Attack" />
+      <property name="CardText" value="If this attack is blocked, both players shuffle all attack cards in their discard piles into their decks; draw 1 card. Combo E: Add the top 2 cards of your decks to your staging area face down. At the start of the End Phase, remove those cards from the game. " />
+      <property name="Resources" value="All Good Life Water" />
+      <property name="Block Modifier" value="0" />
+      <property name="Block Zone" value="Low" />
+      <property name="Speed" value="3" />
+      <property name="Attack Zone" value="Mid" />
+      <property name="Damage" value="6" />
+      <property name="Hand Size" value="" />
+      <property name="Vitality" value="" />
+      <property name="Keywords" value="Combo (Attack)" />
+      <property name="Split Difficulty" value="" />
+      <property name="Split Rules" value="" />
+      <property name="Split Keywords" value="" />
+      <property name="Format" value="Legacy - Eternal" />
+    </card>
+		<card id="d6250c10-be34-427a-bf5d-832c6ae39952" name="·Time Man·">
+      <property name="Difficulty" value="6" />
+      <property name="Rarity" value="P" />
+      <property name="Control" value="6" />
+      <property name="Type" value="Character" />
+      <property name="CardText" value="E (4+): Your attack gets +X speed. X equals half its printed damage (rounded down). R Discard 1 momentum: After the Ready Phase, all checks get -1 for the rest of this turn. " />
+      <property name="Resources" value="Air Evil Life" />
+      <property name="Block Modifier" value="0" />
+      <property name="Block Zone" value="Mid" />
+      <property name="Speed" value="" />
+      <property name="Attack Zone" value="" />
+      <property name="Damage" value="" />
+      <property name="Hand Size" value="6" />
+      <property name="Vitality" value="27" />
+      <property name="Keywords" value="" />
+      <property name="Split Difficulty" value="" />
+      <property name="Split Rules" value="" />
+      <property name="Split Keywords" value="" />
+      <property name="Format" value="Legacy - Eternal" />
+    </card>
+		<card id="8460982e-fe25-48eb-b82f-508884de0b89" name="·Oil Man·">
+      <property name="Difficulty" value="6" />
+      <property name="Rarity" value="P" />
+      <property name="Control" value="6" />
+      <property name="Type" value="Character" />
+      <property name="CardText" value="R: After the Ready Phase, name a card. For the rest of this turn, whenever a player plays a copy of the named card, they add the top card of their deck to their card pool face down. E Flip 1 ready foundation: Your mid or low attack gets +2 damage. " />
+      <property name="Resources" value="Death Earth Water" />
+      <property name="Block Modifier" value="0" />
+      <property name="Block Zone" value="Mid" />
+      <property name="Speed" value="" />
+      <property name="Attack Zone" value="" />
+      <property name="Damage" value="" />
+      <property name="Hand Size" value="6" />
+      <property name="Vitality" value="27" />
+      <property name="Keywords" value="" />
+      <property name="Split Difficulty" value="" />
+      <property name="Split Rules" value="" />
+      <property name="Split Keywords" value="" />
+      <property name="Format" value="Legacy - Eternal" />
+    </card>
+		<card id="cda75b6b-520a-43e6-b750-4cf49cb7c760" name="Deforester">
+			<property name="Difficulty" value="2" />
+			<property name="Rarity"     value="Common" />
+			<property name="Control"    value="5" />
+			<property name="Type"       value="Foundation" />
+			<property name="CardText"   value="Metal Man E: Your attack gets +1 speed.  E [Once per turn] Destroy 1 foundation: If the top card of your discard pile is not a foundation, add 1 card from your hand to your staging area face down and draw 1 card." />
+			<property name="Resources"  value="All - Fire - Void" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="High" />
+			<property name="Speed"      value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage"     value="" />
+			<property name="Hand Size"  value="" />
+			<property name="Vitality"   value="" />
+			<property name="Keywords"   value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Eternal" />
+		</card>
+		<card id="c1e7aa20-6af3-44d8-8980-a3024f647a2e" name="Master of Magnetism">
+			<property name="Difficulty" value="3" />
+			<property name="Rarity"     value="Common" />
+			<property name="Control"    value="5" />
+			<property name="Type"       value="Foundation" />
+			<property name="CardText"   value="E: Your high attack gets +1 damage.  Magnet Man R Commit 1 foundation: Before your attack's Block Step, reutnr its zone to its printed zone. Your opponent cannot attempt to partially block this attack." />
+			<property name="Resources"  value="All - Chaos - Order" />
+			<property name="Block Modifier" value="3" />
+			<property name="Block Zone" value="Mid" />
+			<property name="Speed"      value="" />
+			<property name="Attack Zone" value="" />
+			<property name="Damage"     value="" />
+			<property name="Hand Size"  value="" />
+			<property name="Vitality"   value="" />
+			<property name="Keywords"   value="" />
+			<property name="Split Difficulty" value="" />
+			<property name="Split Rules" value="" />
+			<property name="Split Keywords" value="" />
+			<property name="Format" value="Legacy - Eternal" />
+		</card>
+		<card id="61a0dff5-f77f-42d2-bed8-f94a23b5c0b5" name="Shield Ram">
+    <property name="Difficulty" value="4" />
+    <property name="Rarity"     value="Common" />
+    <property name="Control"    value="3" />
+    <property name="Type"       value="Attack" />
+    <property name="CardText"   value="Combo E: If this attack deals damage, discard it form your card pool and draw 1 card." />
+    <property name="Resources"  value="Air - Death - Fire" />
+    <property name="Block Modifier" value="1" />
+      <property name="Block Zone" value="High" />
+      <property name="Speed"      value="3" />
+     <property name="Attack Zone" value="High" />
+      <property name="Damage"     value="4" />
+      <property name="Hand Size"  value="" />
+      <property name="Vitality"   value="" />
+      <property name="Keywords"   value="Slam - Stun:1 - Combo (Ranged)" />
+        <property name="Split Difficulty" value="" />
+        <property name="Split Rules" value="" />
+        <property name="Split Keywords" value="" />
+        <property name="Format" value="Legacy - Eternal" />
 		</card>
 	</cards>
 </set>
