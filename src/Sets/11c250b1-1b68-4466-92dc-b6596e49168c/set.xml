@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Grimm in Wonderland" id="11c250b1-1b68-4466-92dc-b6596e49168c" gameId="b74079e6-4dc7-4f0f-9025-b4e444555265" gameVersion="1.0" version="1.0">
+	<cards>
+	<card id="78b0cd75-aaba-4888-a60e-205fde5e8afd" name="Race Against Time">
+            <property name="Difficulty" value="3" />
+            <property name="Rarity"     value="Promo" />
+            <property name="Control"    value="4" />
+      	    <property name="Type"       value="Action" />
+            <property name="CardText"   value="R Remove: After an attack is played, remove it. Its owner may play 1 attack with the same printed difficulty as the removed card from their discard pile (no check necessary). " />
+            <property name="Resources"  value="Evil Good Void" />
+            <property name="Block Modifier" value="" />
+            <property name="Block Zone" value="" />
+            <property name="Speed"      value="" />
+            <property name="Attack Zone" value="" />
+            <property name="Damage"     value="" />
+            <property name="Hand Size"  value="" />
+            <property name="Vitality"   value="" />
+            <property name="Keywords"   value="" />
+            <property name="Split Difficulty" value="" />
+            <property name="Split Rules" value="" />
+            <property name="Split Keywords" value="" />
+            <property name="Format" value="Legacy - Eternal - Standard" />
+        </card>
+	<card id="0fafb8ea-ff1b-4189-9d40-8c3723c4018d" name="Party Crasher">
+            <property name="Difficulty" value="5" />
+            <property name="Rarity"     value="Promo" />
+            <property name="Control"    value="2" />
+      	    <property name="Type"       value="Attack" />
+            <property name="CardText"   value="After this card is discarded due to your opponent's effect, you may discard 1 attack from your opponent's card pool. R [Card Pool] Remove: After your opponent adds any number of cards to their hand due to their effect, they lose 5 vitality. " />
+            <property name="Resources"  value="All Chaos Earth" />
+            <property name="Block Modifier" value="3" />
+            <property name="Block Zone" value="Low" />
+            <property name="Speed"      value="4" />
+            <property name="Attack Zone" value="High" />
+            <property name="Damage"     value="5" />
+            <property name="Hand Size"  value="" />
+            <property name="Vitality"   value="" />
+            <property name="Keywords"   value="Reversal" />
+            <property name="Split Difficulty" value="" />
+            <property name="Split Rules" value="" />
+            <property name="Split Keywords" value="" />
+            <property name="Format" value="Legacy - Eternal - Standard" />
+        </card>
+	<card id="cec62150-bf27-4ddf-9e43-ada5914a8669" name="Poison Apple">
+            <property name="Difficulty" value="2" />
+            <property name="Rarity"     value="Promo" />
+            <property name="Control"    value="5" />
+      	    <property name="Type"       value="Asset" />
+            <property name="CardText"   value="F [Once per turn]: Both players lose 1 vitality. R Commit 1 foundation: After an attack card leaves a player's card pool due to their effect, that player commits 1 fondation. Playable by either player. " />
+            <property name="Resources"  value="Death Evil Order" />
+            <property name="Block Modifier" value="1" />
+            <property name="Block Zone" value="High" />
+            <property name="Speed"      value="" />
+            <property name="Attack Zone" value="" />
+            <property name="Damage"     value="" />
+            <property name="Hand Size"  value="" />
+            <property name="Vitality"   value="" />
+            <property name="Keywords"   value="" />
+            <property name="Split Difficulty" value="" />
+            <property name="Split Rules" value="" />
+            <property name="Split Keywords" value="" />
+            <property name="Format" value="Legacy - Eternal - Standard" />
+        </card>
+	<card id="8802095c-0520-4927-8bea-aebb0588ee69" name="Eggsplosion">
+            <property name="Difficulty" value="4" />
+            <property name="Rarity"     value="Promo" />
+            <property name="Control"    value="3" />
+      	    <property name="Type"       value="Attack" />
+            <property name="CardText"   value="While this card is in your card pool, Reversal attacks get +2 difficulty. E: This attack gets Multiple: X. X equals your momentum. " />
+            <property name="Resources"  value="Fire Good Water" />
+            <property name="Block Modifier" value="" />
+            <property name="Block Zone" value="" />
+            <property name="Speed"      value="3" />
+            <property name="Attack Zone" value="Mid" />
+            <property name="Damage"     value="3" />
+            <property name="Hand Size"  value="" />
+            <property name="Vitality"   value="" />
+            <property name="Keywords"   value="Ally - Desperation: 3 - Deadlock Stun: 3" />
+            <property name="Split Difficulty" value="" />
+            <property name="Split Rules" value="" />
+            <property name="Split Keywords" value="" />
+            <property name="Format" value="Legacy - Eternal - Standard" />
+        </card>
+
+
+	</cards>
+</set>

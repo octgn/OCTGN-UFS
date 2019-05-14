@@ -201,7 +201,7 @@
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Eternal - Standard - Turbo" />
 		</card>
-		<card id="88b56f9c-0e97-4428-98bd-235a659b0a7c" name="Punishment Time!">
+		<card id="88b56f9c-0e97-4428-98bd-235a659b0a7c" name="Punishment Time! (Banned)">
 			<property name="Difficulty" value="3" />
 			<property name="Rarity" value="UC" />
 			<property name="Control" value="6" />
@@ -541,7 +541,7 @@
 			<property name="Split Keywords" value="" />
 			<property name="Format" value="Legacy - Eternal - Standard - Turbo" />
 		</card>
-		<card id="3ad2dd2f-f38f-42b8-ae09-4a4dac94a092" name="·Maxi·">
+		<card id="3ad2dd2f-f38f-42b8-ae09-4a4dac94a092" name="·Maxi· (Banned)">
 			<property name="Difficulty" value="6" />
 			<property name="Rarity" value="UC" />
 			<property name="Control" value="6" />
